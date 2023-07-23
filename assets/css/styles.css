@@ -1,0 +1,97 @@
+/*------Font Styling--*/
+body {
+    font-family: 'Lunasima', sans-serif;
+}
+
+/*------Colours--*/
+.navbar-nav .nav-link {
+    color: white;
+}
+
+.hero-text {
+    color: rgb(255, 255, 255);
+}
+
+.hero-welcome {
+    color: rgb(255, 255, 255);
+}
+
+/*------Navbar Styling--*/
+.container {
+    padding-left: 2.5%;
+    margin: 0;
+}
+
+.navbar {
+    background-color: #dc0814;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+}
+
+.navbar-nav {
+    margin-left: 0;
+}
+
+.navbar-brand {
+    color: white;
+    margin-right: 0%;
+    padding-right: 2.5%;
+}
+
+.nav-item {
+    padding-right: 15px;
+}
+
+.navbar-name {
+    font-size: x-large;
+}
+
+/*------Hero Image Styling--*/
+.hero-section {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url("/assets/images/Hero-image.jpg");
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+
+}
+
+.hero-content {
+    text-align: center;
+    margin-top: -35%;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+
+}
+
+.hero-content h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.hero-content p {
+    font-size: 20px;
+}
+
+.hero-background-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+}
