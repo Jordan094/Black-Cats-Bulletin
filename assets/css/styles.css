@@ -1,9 +1,18 @@
 /*------Font Styling--*/
 body {
     font-family: 'Lunasima', sans-serif;
+
+    
 }
 
 /*------Colours--*/
+.btn-primary {
+    --bs-btn-bg: #dc3545;
+    --bs-btn-border-color: #dc3545;
+    --bs-btn-hover-bg: #212529;
+    --bs-btn-hover-border-color: #212529;
+}
+
 .navbar-nav .nav-link {
     color: white;
 }
@@ -23,9 +32,9 @@ body {
 }
 
 .navbar {
-    background-color: #dc0814;
-    padding-top: 2.5%;
-    padding-bottom: 2.5%;
+    background-color: #dc3545;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
 }
 
 .navbar-nav {
@@ -44,52 +53,36 @@ body {
 
 .navbar-name {
     font-size: x-large;
+    padding-top: 7.5%;
 }
 
-/*------Hero Image Styling--*/
+/*------Hero Image Styling-*/
 .hero-section {
-    position: relative;
+    background-image: url("../images/hero-imagee.jpg");
+    background-size: cover;
+    background-position: center;
+    height: fit-content;
     display: flex;
-    flex-direction: column;
-    align-items: center;
     justify-content: center;
-    height: 100vh;
-    background-image: url("/assets/images/Hero-image.jpg");
-    background-size: 120%;
-    background-repeat: no-repeat;
-}
-
-.hero-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.7);
+    align-items: center;
+    text-align: center;
+    color: rgb(223, 223, 223);
 }
 
 .hero-content {
-    text-align: center;
-    margin-top: -35%;
-    padding: 20px;
-    border-radius: 10px;
-    color: white;
-}
+    max-width: 1000px;
+    padding-top: 5%;
+    padding-bottom: 10%;
 
+}
+        
 .hero-content h1 {
-    font-size: 36px;
+    font-size: 46px;
     font-weight: bold;
+    margin-bottom: 20px;
 }
-
+        
 .hero-content p {
-    font-size: 20px;
+    font-size: 24px;
 }
 
-.hero-background-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.7);
-}
