@@ -6,15 +6,14 @@ body {
 }
 
 /*------Colours--*/
+
 .btn-primary {
     --bs-btn-bg: #dc3545;
     --bs-btn-border-color: #dc3545;
     --bs-btn-hover-bg: #212529;
     --bs-btn-hover-border-color: #212529;
-}
-
-.navbar-nav .nav-link {
-    color: white;
+    --bs-btn-active-bg: #dc3545;
+    --bs-btn-active-border-color: #dc3545;
 }
 
 .hero-text {
@@ -26,15 +25,18 @@ body {
 }
 
 /*------Navbar Styling--*/
+
 .container {
     padding-left: 2.5%;
     margin: 0;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    
 }
 
 .navbar {
     background-color: #dc3545;
-    padding-top: 1.5%;
-    padding-bottom: 1.5%;
+
 }
 
 .navbar-nav {
@@ -42,6 +44,9 @@ body {
 }
 
 .navbar-brand {
+    font-family: 'Lunasima', sans-serif;
+    font-size: 28px;
+    font-weight: 600;
     color: white;
     margin-right: 0%;
     padding-right: 2.5%;
@@ -52,8 +57,23 @@ body {
 }
 
 .navbar-name {
-    font-size: x-large;
-    padding-top: 7.5%;
+    padding-top: 7%;
+}
+
+.navbar-nav .nav-link {
+    font-family: 'Lunasima', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.navbar-nav .nav-link.active {
+    text-decoration: underline;
+    color: white;
+    padding-left: 1%;
+    padding-right: 1%;
 }
 
 /*------Hero Image Styling-*/
@@ -84,5 +104,6 @@ body {
         
 .hero-content p {
     font-size: 24px;
+    
 }
 
