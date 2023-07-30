@@ -2,10 +2,19 @@
 body {
     font-family: 'Lunasima', sans-serif;
 
-    
+
 }
 
 /*------Colours--*/
+.contents .btn {
+    margin-top: 10px;
+    --bs-btn-bg: #999999;
+    --bs-btn-border-color: #999999;
+    --bs-btn-hover-bg: #dc3545;
+    --bs-btn-hover-border-color: #dc3545;
+    --bs-btn-active-bg: #999999;
+    --bs-btn-active-border-color: #999999;
+}
 
 .btn-primary {
     --bs-btn-bg: #dc3545;
@@ -31,7 +40,7 @@ body {
     margin: 0;
     padding-top: 1.5%;
     padding-bottom: 1.5%;
-    
+
 }
 
 .navbar {
@@ -95,16 +104,16 @@ body {
     padding-bottom: 10%;
 
 }
-        
+
 .hero-content h1 {
     font-size: 46px;
     font-weight: bold;
     margin-bottom: 20px;
 }
-        
+
 .hero-content p {
     font-size: 24px;
-    
+
 }
 
 /*------Main Content Section Styling-*/
@@ -124,11 +133,15 @@ body {
 
 .contents {
     background-color: #eeeeee;
-    padding: 30px;
-    border-radius: 40px;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-left: 0px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     text-align: center;
-    
+    margin-bottom: 40%;
+    width: 100%;
+    height: 95%;
+
 }
 
 .contents img {
@@ -136,12 +149,9 @@ body {
     margin-right: 100px;
 }
 
-.contents .btn {
-    margin-top: 10px;
-    --bs-btn-bg: #999999;
-    --bs-btn-border-color: #999999;
-    --bs-btn-hover-bg: #dc3545;
-    --bs-btn-hover-border-color: #dc3545;
-    --bs-btn-active-bg: #999999;
-    --bs-btn-active-border-color: #999999;
+.main-content {
+    display: grid;
+    place-items: center;
+    gap: 50px;
 }
+
