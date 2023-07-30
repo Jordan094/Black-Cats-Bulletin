@@ -93,6 +93,11 @@ body {
     color: #212529;
 }
 
+footer.footer {
+    background-color: #212529;
+    color: white;
+}
+
 /*------Hero Image Styling-*/
 .hero-section {
     background-image: url("../images/hero-imagee.jpg");
@@ -163,3 +168,37 @@ body {
     gap: 50px;
 }
 
+
+/*------Footer Styling--*/
+footer.footer {
+    background-color: #212529;
+    color: white;
+}
+
+.footer .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-left {
+    display: flex;
+    gap: 15px;
+}
+
+.footer-right {
+    display: flex;
+    gap: 15px;
+    padding-right: 2.5%;
+}
+
+.social-icon,
+.contact-icon {
+    font-size: 20px;
+    color: white;
+}
+
+.social-icon:hover,
+.contact-icon:hover {
+    color: #dc3545;
+}
