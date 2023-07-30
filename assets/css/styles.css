@@ -85,6 +85,14 @@ body {
     padding-right: 1%;
 }
 
+.nav-link:hover{
+    color: #212529;
+}
+
+.nav-link.active:hover{
+    color: #212529;
+}
+
 /*------Hero Image Styling-*/
 .hero-section {
     background-image: url("../images/hero-imagee.jpg");
