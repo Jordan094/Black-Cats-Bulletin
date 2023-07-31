@@ -6,6 +6,9 @@ body {
 }
 
 /*------Colours--*/
+.navbar {
+    background-color: #dc3545;
+}
 .contents .btn {
     margin-top: 10px;
     --bs-btn-bg: #999999;
@@ -15,7 +18,6 @@ body {
     --bs-btn-active-bg: #999999;
     --bs-btn-active-border-color: #999999;
 }
-
 .btn-primary {
     --bs-btn-bg: #dc3545;
     --bs-btn-border-color: #dc3545;
@@ -24,30 +26,21 @@ body {
     --bs-btn-active-bg: #dc3545;
     --bs-btn-active-border-color: #dc3545;
 }
-
 .hero-text {
     color: rgb(255, 255, 255);
 }
-
 .hero-welcome {
     color: rgb(255, 255, 255);
 }
 
-/*------Navbar Styling--*/
 
-.container {
+/*------Navbar Styling--*/
+.navbar{
     padding-left: 2.5%;
     margin: 0;
-    padding-top: 1.5%;
-    padding-bottom: 1.5%;
-
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
-
-.navbar {
-    background-color: #dc3545;
-
-}
-
 .navbar-nav {
     margin-left: 0;
 }
@@ -57,16 +50,19 @@ body {
     font-size: 28px;
     font-weight: 600;
     color: white;
-    margin-right: 0%;
-    padding-right: 2.5%;
 }
 
 .nav-item {
     padding-right: 15px;
 }
 
-.navbar-name {
+p.navbar-name {
     padding-top: 7%;
+    margin-right: 0;
+    font-family: 'Lunasima', sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    color: white;
 }
 
 .navbar-nav .nav-link {
@@ -85,11 +81,11 @@ body {
     padding-right: 1%;
 }
 
-.nav-link:hover{
+.nav-link:hover {
     color: #212529;
 }
 
-.nav-link.active:hover{
+.nav-link.active:hover {
     color: #212529;
 }
 
@@ -170,6 +166,12 @@ footer.footer {
 
 
 /*------Footer Styling--*/
+.container {
+    padding-left: 2.5%;
+    margin: 0;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
 footer.footer {
     background-color: #212529;
     color: white;
@@ -194,7 +196,7 @@ footer.footer {
 
 .social-icon,
 .contact-icon {
-    font-size: 20px;
+    font-size: 25px;
     color: white;
 }
 
