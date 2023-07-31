@@ -1,39 +1,29 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Black Cats Bulletin - Sunderland AFC Fan Page
 
-Welcome,
+## Milestone Project 1 - Static Front-End Website
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+##### DISCLAIMER: This website is in no way affiliated with Sunderland AFC it is only to be used as my personal portfolio.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+* The Black Cats Bulletin is aimed to be a desstination for Sunderland AFC fans to find all information regarding Sunderland AFC. The website has been created to be responsive, ensuring it is user-friendly and visually attractive on all types of devices.
+* This website has been designed using HTML, CSS and Bootstrap 5. It is my submission for Code Institute's Level 5 Diploma in Web Application Development Milestone Project 1.
 
-## Codeanywhere Reminders
+## Live Project
+[View the live project here](https://jordan094.github.io/Black-Cats-Bulletin/index.html)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+## Contents
+  - [User Experience (UX)](#user-experience)
+    - [Background](#background)
+    - [Site Owners Goals](#site-owners-goals)
+    - [User Goals](#user-goals)
+    - [First Time Visitor Goals](#first-time-visitor-goals)
+    - [Returning Visitor Goals](#frequent-visitor-goals)
 
-`python3 -m http.server`
+# User Experience
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Background
+* Sunderland AFC Football club is one of the biggest football clubs in the north east. The play in the EFL Championship and have a global following. The Black Cats Bulletin website aims to bring fans from across the world together to one place to find updates surrounding the club. This website will showcase news, fixtures and results and where they currently are in the table.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+# Site Owners Goals
+* The Black Cats Bulletin aims to be a go to platform for Sunderland AFC fans.
+* The Black Cats Bulletin also aims to deliver the lastest transfer news, club news, fixtures and results and where the team is on the league table to fans.
+* The Site will provide a sign up form for users to register form to sign up for email updates.
