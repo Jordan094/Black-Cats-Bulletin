@@ -58,7 +58,22 @@
 
 ## Colour Pallete
 
-[Black Cats Bulletin Colour Pallette](/assets/images/readme-images/Colour-pallette.png)
+![Black Cats Bulletin Colour Pallette](/assets/images/readme-images/colour-pallette.png)
 [Pallette Created Using Coolors.co](https://coolors.co/)
 
-I have went with the above colour pallette as I wanted to stay true to the colours of the Sunderland AFC team Red being the primary colour and White the secondary. I chose neutral gray colours to make sure there was no clashes. I have also used the Coolors contrast checker to ensure these are suitable.
+I have chosen the above colour pallette as I wanted to stay true to the colours of the Sunderland AFC team Red being the primary colour and White the secondary. I chose neutral gray colours to make sure there was no clashes. I have also used the Coolors contrast checker to ensure these are suitable.
+
+## Typography
+
+I have chosen the Lunasima Font. This is provided by Google Fonts and [can be found here.](https://fonts.google.com/specimen/Lunasima)
+
+I have used the regular font weight for standard text and chosen a weight of 600 when adding emphasis such as on the heading and title text.
+
+I have selected sans-serif to be the default font if Lunasima can not be loaded.
+
+## Images
+
+The bulk of the images used have been sourced from Sunderland AFC's official site. However, special thanks to [sjhoward.co.uk](https://sjhoward.co.uk/haway-the-lads/) for the hero image.
+
+All images used have been carefully selected and have a high resolution to ensure they can be displayed clearly on the website.
+
