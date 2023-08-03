@@ -2,7 +2,7 @@
 
 ## Milestone Project 1 - Static Front-End Website
 
-##### DISCLAIMER: This website is in no way affiliated with Sunderland AFC it is only to be used as my personal portfolio.
+##### DISCLAIMER: This website is in no way affiliated with Sunderland AFC it is only to be used as my personal portfolio
 
 * The Black Cats Bulletin is aimed to be a desstination for Sunderland AFC fans to find all information regarding Sunderland AFC. The website has been created to be responsive, ensuring it is user-friendly and visually attractive on all types of devices.
 * This website has been designed using HTML, CSS and Bootstrap 5. It is my submission for Code Institute's Level 5 Diploma in Web Application Development Milestone Project 1.
@@ -19,7 +19,12 @@
   * [First Time User Goals](#first-time-user-goals)
   * [Frequent User Goals](#frequent-user-goals)
   * [Features to be included](#features-to-be-included)
+  
 * [Design](#design)
+  * [Colour Pallette](#colour-pallete)
+  * [Typography](#typography)
+  * [Videos](#videos)
+  * [Icons](#icons)
 
 # User Experience
 
@@ -71,9 +76,46 @@ I have used the regular font weight for standard text and chosen a weight of 600
 
 I have selected sans-serif to be the default font if Lunasima can not be loaded.
 
-## Images
+## Images Used
 
-The bulk of the images used have been sourced from Sunderland AFC's official site. However, special thanks to [sjhoward.co.uk](https://sjhoward.co.uk/haway-the-lads/) for the hero image.
+The bulk of the images used have been sourced from Sunderland AFC's official site. However, special thanks to [sjhoward.co.uk](https://sjhoward.co.uk) for the hero image.
 
 All images used have been carefully selected and have a high resolution to ensure they can be displayed clearly on the website.
 
+## Videos
+
+The results section of the website has external links to the official clubs youtube channel which uploads highlight reels of each game played.
+
+## Icons
+
+The websites footer uses fontawesome icons for external links to social media pages and also quick email and phone contact buttons. This is to make the footer easy to understand and have a simple clean layout.
+
+# Structure
+
+## Website Layout
+
+The website has been designed using HTML5, CSS and Bootstrap 5 with a mobile first approach
+
+All pages on the website contain the same format navigation bar and footer.
+
+## Navigation Bar
+
+The navigation bar is designed in a mobile first format with a hamburger button to expand the options for different pages. The background colour is red and the text is white. When viewing on a large device screen for example a desktop, all of the menu options will be visible.
+
+* The menu options are as follows:
+* Home
+* News
+* Fixtures
+* Join The Club
+
+## Footer
+
+The footer for the website is simple and clean and easy for the user to understand. On the left there is fontawesome icons for social media pages and on the right of the page there is fontawesome icons for the contact and email sections. The design of the footer means that when the page is viewed on different size devices there is minimal change to the layout.
+
+## HomePage
+
+The Home page (index.html) consists of the Nav-bar, Hero Image, 3 previews of the main blocks of content (latest news, next fixture, condensed league table.) the latest news section and next fixture block takes you to their respective full web pages when pressed, whilst the condensed league table loads a full sized imag. Finally the footer is presented at the bottom of the page.
+
+## NewsPage
+
+The 
