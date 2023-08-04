@@ -95,12 +95,18 @@ The websites footer uses fontawesome icons for external links to social media pa
 ## Website Layout
 
 The website has been designed using HTML5, CSS and Bootstrap 5 with a mobile first approach
+All pages on the website contain the same format navigation bar and footer for continuity purposes.
 
-All pages on the website contain the same format navigation bar and footer.
+* The website contains a homepage and then 4 other pages. News, Fixutres and Results, Join the club and 404.
+  * Homepage - First page user will come to, provided an overview of the site and links to other pages.
+  * News - Has news and updates about the club
+  * Fixtures - Shows the latest fixtures and recent results.
+  * Join the club - Has 2 options. Join the club fully (Create an account) or sign up for email updates.
+  * 404 Page - A page I do not intend users to find. This page should only be displayed when there is a broken URL.
 
-## Navigation Bar
+## Header
 
-The navigation bar is designed in a mobile first format with a hamburger button to expand the options for different pages. The background colour is red and the text is white. When viewing on a large device screen for example a desktop, all of the menu options will be visible.
+The header contains navigation bar which is designed in a mobile first format with a hamburger button to expand the options for different pages. The background colour is red and the text is white. When viewing on a large device screen for example a desktop, all of the menu options will be visible.
 
 * The menu options are as follows:
 * Home
@@ -112,10 +118,71 @@ The navigation bar is designed in a mobile first format with a hamburger button 
 
 The footer for the website is simple and clean and easy for the user to understand. On the left there is fontawesome icons for social media pages and on the right of the page there is fontawesome icons for the contact and email sections. The design of the footer means that when the page is viewed on different size devices there is minimal change to the layout.
 
-## HomePage
+## Home Page
 
-The Home page (index.html) consists of the Nav-bar, Hero Image, 3 previews of the main blocks of content (latest news, next fixture, condensed league table.) the latest news section and next fixture block takes you to their respective full web pages when pressed, whilst the condensed league table loads a full sized imag. Finally the footer is presented at the bottom of the page.
+[View the home page wireframes here:](/assets/images/readme-images/Wireframes/Home%20-%20Black%20Cats%20Bulletin%20All.webp)
 
-## NewsPage
+The Home page (index.html) consists of the header, Hero Image, 3 previews of the main blocks of content (latest news, next fixture, condensed league table.) the latest news section and next fixture block takes you to their respective full web pages when pressed, whilst the condensed league table loads a full sized image. The footer is present at the bottom of the page.
 
-The 
+The home page is responsive and when viewed on medium and smaller devices there are a number of changes, the navigation bar condenses into a dropdown menu, the 3 main content blocks diplay in vertical order instead of all inline horizontally and the footer compresses.
+
+## News Page
+
+[View the news page wireframes here:](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin%20all.webp)
+
+The news page (news.html) consists of the header, news and updates relating to Sunderland AFC. There is a picture usually accompanying the article, the news is delivered in bitesize chunks with links to where the information has came from. The latest news is at the top of the page and continues down. The footer is present at the bottom of the page.
+
+The news page is responsive and when viewed on medium and smaller devices there are a number of changes. the navigation bar condenses into a dropdown menu, the images will not display it is just a Main heading and article text. The footer is present at the bottom of the page.
+
+## Fixtures Page
+
+[View the news page wireframes here:](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin%20all.webp)
+
+The fixtures page (fixtures.html) consists of the header, followed by a HTML table. Inside the HTML table there is 2 tabs.  Firstly there is the fixtures tab. It shows the 5 newest fixtures of the club. Each fixture will contain a link to an external site to view team stats. The second tab is a Results tab. It contains the 5 most recent results. Each result contains a hyperlink to an embedded youtube video with the match highlights. The footer is present at the bottom of the page.
+
+The fixtures page contains the same responsive elements for the header and footer that the other pages do but the table sizes adjusts to display correctly on which ever size device it is being viewed on.
+
+## Join the club page
+
+[View the join the club wireframes here:](/assets/images/readme-images/Wireframes/Join%20the%20club%20all.webp)
+
+The join the club page (join.html) consists of the header, followed by 2 different sections. The top section has an overview of fully joining the club and details the full ins and outs of the perks of joining, (these features will not be included in the current website but will be introduced in future iterations) a join now button which brings up a javascript modal to create an account. The bottom section is a simple HTML form to enter your Name and Email Address to sign up for email alerts.
+
+The join the club page contains the same responsive elements for the header and footer that the other pages do but like the fixtures pages the content sizes adjusts to display correctly on which ever size device it is being viewed on.
+
+# 404 Page
+
+[View the 404 page wireframes here:]()
+
+The 404 page will be extremely simple. It contains the same responsive design as the previously showcased pages and display a message saying the page could not be found and a back button which returns to the home page.
+
+# Wireframes
+
+Here are all of the wireframes designed for this page broken down into device level. You can find the combined wireframes on the sections above.
+
+* Home page
+  * [Home Page mobile wireframe](/assets/images/readme-images/Wireframes/Home%20-%20Black%20Cats%20Bulletin%20(Mobile).webp)
+  * [Home Page tablet wireframe](/assets/images/readme-images/Wireframes/Home%20-%20Black%20Cats%20Bulletin%20(Tablet).webp)
+  * [Home Page desktop wireframe](/assets/images/readme-images/Wireframes/Home%20-%20Black%20Cats%20Bulletin.webp)
+* News Page
+  * [News Page mobile wireframe](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin%20(Mobile).webp)
+  * [News Page tablet wireframe](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin%20(Tablet).webp)
+  * [News Page desktop wireframe](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin.webp)
+* Fixtures Page
+  * [Fixtures Page mobile wireframe](/assets/images/readme-images/Wireframes/Fixtures%20%26%20Results%20-%20Black%20Cats%20Bulletin%20(Mobile).webp)
+  * [Fixtures Page tablet wireframe](/assets/images/readme-images/Wireframes/Fixtures%20%26%20Results%20-%20Black%20Cats%20Bulletin%20(Tablet)%20.webp)
+  * [Fixtures Page desktop wireframe](/assets/images/readme-images/Wireframes/Fixtures%20%26%20Results%20-%20Black%20Cats%20Bulletin.webp.webp)
+* Join Page
+  * [Join Page mobile wireframe](/assets/images/readme-images/Wireframes/Join%20the%20club%20-%20Black%20Cats%20Bulletin%20(Mobile).webp)
+  * [Join Page tablet wireframe](/assets/images/readme-images/Wireframes/Join%20the%20club%20-%20Black%20Cats%20Bulletin%20(Tablet)%20.webp)
+  * [Join Page desktop wireframe](/assets/images/readme-images/Wireframes/Join%20the%20club%20-%20Black%20Cats%20Bulletin.webp)
+* 404 Page
+  * [404 Page mobile wireframe]()
+  * [404 Page tablet wireframe]()
+  * [404 Page desktop wireframe]()
+
+# Features
+
+# Accessibility
+
+When designing the page I have considered the potential users 
