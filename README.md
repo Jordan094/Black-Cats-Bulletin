@@ -19,10 +19,10 @@
   * [First Time User Goals](#first-time-user-goals)
   * [Frequent User Goals](#frequent-user-goals)
   * [Features to be included](#features-to-be-included)
-  
 * [Design](#design)
   * [Colour Pallette](#colour-pallete)
   * [Typography](#typography)
+  * [Images Used](#images-used)
   * [Videos](#videos)
   * [Icons](#icons)
 
