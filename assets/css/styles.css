@@ -4,8 +4,6 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-
-
 }
 
 /*------Colours--*/
@@ -29,6 +27,7 @@ body {
     --bs-btn-active-bg: #dc3545;
     --bs-btn-active-border-color: #dc3545;
 }
+
 .hero-text {
     color: white;
 }
@@ -96,6 +95,14 @@ p.navbar-name {
 footer.footer {
     background-color: #212529;
     color: white;
+}
+
+.register-btn {
+    background-color: #dc3545;
+}
+
+.register-btn:hover {
+    background-color: #212529;
 }
 
 /*------Hero Image Styling-*/
@@ -168,6 +175,21 @@ footer.footer {
     gap: 50px;
 }
 
+/*--Email Alert sign up styling--*/
+.register-btn{
+    border-radius: 12px;
+    border: none;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    cursor: pointer;
+}
+
 
 /*------Footer Styling--*/
 .container {
@@ -214,7 +236,6 @@ footer{
 }
 
 
-
 @media only screen and (max-width: 420px) {
 .navbar-brand {
         font-family: 'Lunasima', sans-serif;
@@ -224,4 +245,17 @@ footer{
         padding-top: 5%;
         padding-bottom: 5%;
     }
+.register-btn {
+    border-radius: 12px;
+    border: none;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    cursor: pointer;
+}
 }
