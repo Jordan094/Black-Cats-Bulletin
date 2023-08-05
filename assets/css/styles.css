@@ -105,6 +105,11 @@ footer.footer {
     background-color: #212529;
 }
 
+/*--Join page background--*/
+.join-page-content {
+    background-color: #eeeeee;
+}
+
 /*------Hero Image Styling-*/
 .hero-section {
     background-image: url("../images/site-images/hero-image.jpg");
@@ -190,7 +195,6 @@ footer.footer {
     cursor: pointer;
 }
 
-
 /*------Footer Styling--*/
 .container {
     padding-left: 2.5%;
@@ -235,7 +239,6 @@ footer{
     margin-top: auto;
 }
 
-
 @media only screen and (max-width: 420px) {
 .navbar-brand {
         font-family: 'Lunasima', sans-serif;
@@ -244,7 +247,10 @@ footer{
         color: white;
         padding-top: 5%;
         padding-bottom: 5%;
-    }
+}
+.email-form{
+    font-size: 0.75rem;
+}
 .register-btn {
     border-radius: 12px;
     border: none;
@@ -257,5 +263,11 @@ footer{
     margin-top: 5%;
     margin-bottom: 5%;
     cursor: pointer;
+}
+.container {
+    padding-left: 2.5%;
+    margin: 0;
+    padding-top: 3%;
+    padding-bottom: 3%;
 }
 }
