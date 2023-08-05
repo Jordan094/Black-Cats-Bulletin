@@ -1,6 +1,9 @@
 /*------Font Styling--*/
 body {
     font-family: 'Lunasima', sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 
 
 }
@@ -204,6 +207,11 @@ footer.footer {
 .contact-icon:hover {
     color: #dc3545;
 }
+
+footer{
+    margin-top: auto;
+}
+
 
 
 @media only screen and (max-width: 420px) {
