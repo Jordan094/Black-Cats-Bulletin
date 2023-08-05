@@ -96,7 +96,7 @@ footer.footer {
 
 /*------Hero Image Styling-*/
 .hero-section {
-    background-image: url("../images/hero-imagee.jpg");
+    background-image: url("../images/site-images/hero-image.jpg");
     background-size: cover;
     background-position: center;
     height: fit-content;
