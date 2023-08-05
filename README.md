@@ -152,7 +152,7 @@ The join the club page contains the same responsive elements for the header and 
 
 # 404 Page
 
-[View the 404 page wireframes here:]()
+[View the 404 page wireframes here:](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(all).webp)
 
 The 404 page will be extremely simple. It contains the same responsive design as the previously showcased pages and display a message saying the page could not be found and a back button which returns to the home page.
 
@@ -177,9 +177,9 @@ Here are all of the wireframes designed for this page broken down into device le
   * [Join Page tablet wireframe](/assets/images/readme-images/Wireframes/Join%20the%20club%20-%20Black%20Cats%20Bulletin%20(Tablet)%20.webp)
   * [Join Page desktop wireframe](/assets/images/readme-images/Wireframes/Join%20the%20club%20-%20Black%20Cats%20Bulletin.webp)
 * 404 Page
-  * [404 Page mobile wireframe]()
-  * [404 Page tablet wireframe]()
-  * [404 Page desktop wireframe]()
+  * [404 Page mobile wireframe](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(mobile).webp)
+  * [404 Page tablet wireframe](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(tablet).webp)
+  * [404 Page desktop wireframe](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(desktop).webp)
 
 # Features
 
