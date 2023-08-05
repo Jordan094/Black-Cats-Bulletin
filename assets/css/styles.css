@@ -57,6 +57,7 @@ body {
 
 .nav-item {
     padding-right: 15px;
+    white-space: nowrap;
 }
 
 p.navbar-name {
