@@ -105,11 +105,19 @@ footer.footer {
     background-color: #212529;
 }
 
-/*--Join page background--*/
+/*--Join page Stying--*/
 .join-page-content {
     background-color: #eeeeee;
 }
 
+.btn-success {
+    --bs-btn-bg: #dc3545;
+        --bs-btn-border-color: #dc3545;
+        --bs-btn-hover-bg: #212529;
+        --bs-btn-hover-border-color: #212529;
+        --bs-btn-active-bg: #dc3545;
+        --bs-btn-active-border-color: #dc3545;
+}
 /*------Hero Image Styling-*/
 .hero-section {
     background-image: url("../images/site-images/hero-image.jpg");
