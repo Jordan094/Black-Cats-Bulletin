@@ -240,6 +240,16 @@ tr:nth-child(odd) {
     color: white;
 }
 
+/*--League Table Styling--*/
+.league-table {
+    margin: 0 auto;
+    /* Center horizontally */
+    display: block;
+    /* Ensures proper centering */
+}
+
+
+
 /*------Footer Styling--*/
 .container {
     padding-left: 2.5%;
