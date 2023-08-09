@@ -7,6 +7,10 @@ body {
 }
 
 /*------Colours--*/
+body{
+    background-color: #eeeeee;
+}
+
 .navbar {
     background-color: #dc3545;
 }
