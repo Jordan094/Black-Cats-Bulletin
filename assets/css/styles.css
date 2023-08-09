@@ -105,6 +105,10 @@ footer.footer {
     background-color: #212529;
 }
 
+#fixtures-results-table {
+    background-color: white;
+}
+
 /*--Join page Stying--*/
 .join-page-content {
     background-color: #eeeeee;
@@ -204,6 +208,11 @@ footer.footer {
 }
 
 /*--Fixtures Table Styling--*/
+.fixtures-table-heading{
+    text-align: center;
+    font-weight: 600;
+}
+
 #fixtures-results-table {
     border-collapse: collapse;
     width: 100%;
