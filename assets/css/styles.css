@@ -213,6 +213,10 @@ footer.footer {
     font-weight: 600;
 }
 
+.table-heading{
+    text-align: center;
+}
+
 #fixtures-results-table {
     border-collapse: collapse;
     width: 100%;
@@ -224,7 +228,7 @@ th {
     font-weight: 600;
     border: 3px solid #000000;
     text-align: left;
-    padding: 8px;
+    padding: 16px;
 }
 
 tr:nth-child(odd) {
