@@ -203,6 +203,26 @@ footer.footer {
     cursor: pointer;
 }
 
+/*--Fixtures Table Styling--*/
+#fixtures-results-table {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+}
+
+td,
+th {
+    font-weight: 600;
+    border: 3px solid #000000;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(odd) {
+    background-color: #dc3545;
+    color: white;
+}
+
 /*------Footer Styling--*/
 .container {
     padding-left: 2.5%;
