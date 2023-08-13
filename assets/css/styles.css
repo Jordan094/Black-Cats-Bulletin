@@ -6,6 +6,12 @@ body {
     min-height: 100vh;
 }
 
+/*------Page Headers--*/
+.main-page-header {
+    text-align: center;
+    font-weight: 600;
+}
+
 /*------Colours--*/
 body {
     background-color: #eeeeee;
@@ -217,11 +223,6 @@ footer.footer {
 }
 
 /*--Fixtures Table Styling--*/
-.fixtures-table-heading {
-    text-align: center;
-    font-weight: 600;
-}
-
 .table-heading {
     text-align: center;
 }
