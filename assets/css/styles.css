@@ -31,12 +31,13 @@ body {
 
 .contents .btn {
     margin-top: 10px;
-    --bs-btn-bg: #999999;
-    --bs-btn-border-color: #999999;
-    --bs-btn-hover-bg: #dc3545;
-    --bs-btn-hover-border-color: #dc3545;
-    --bs-btn-active-bg: #999999;
-    --bs-btn-active-border-color: #999999;
+    --bs-btn-color: #ffffff;
+    --bs-btn-bg: #dc3545;
+    --bs-btn-border-color: #dc3545;
+    --bs-btn-hover-bg: #212529;
+    --bs-btn-hover-border-color: #212529;
+    --bs-btn-active-bg: #dc3545;
+    --bs-btn-active-border-color: #dc3545;
 }
 
 .btn-primary {
