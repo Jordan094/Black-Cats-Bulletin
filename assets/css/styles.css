@@ -232,8 +232,10 @@ footer.footer {
 
 #fixtures-results-table {
     border-collapse: collapse;
-    width: 100%;
+    width: 97%;
     table-layout: fixed;
+    margin-left: 1.5%;
+    
 }
 
 td,
