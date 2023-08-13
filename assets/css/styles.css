@@ -6,9 +6,13 @@ body {
     min-height: 100vh;
 }
 
-/*------Page Headers--*/
-.main-page-header {
+/*------Page Headings--*/
+.main-page-heading {
     text-align: center;
+    font-weight: 600;
+}
+
+.sub-heading {
     font-weight: 600;
 }
 
