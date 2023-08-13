@@ -7,13 +7,14 @@ body {
 }
 
 /*------Colours--*/
-body{
+body {
     background-color: #eeeeee;
 }
 
 .navbar {
     background-color: #dc3545;
 }
+
 .contents .btn {
     margin-top: 10px;
     --bs-btn-bg: #999999;
@@ -23,6 +24,7 @@ body{
     --bs-btn-active-bg: #999999;
     --bs-btn-active-border-color: #999999;
 }
+
 .btn-primary {
     --bs-btn-bg: #dc3545;
     --bs-btn-border-color: #dc3545;
@@ -35,18 +37,20 @@ body{
 .hero-text {
     color: white;
 }
+
 .hero-welcome {
     color: white;
 }
 
 
 /*------Navbar Styling--*/
-.navbar{
+.navbar {
     padding-left: 2.5%;
     margin: 0;
     padding-top: 1%;
     padding-bottom: 1%;
 }
+
 .navbar-nav {
     margin-left: 0;
 }
@@ -120,12 +124,13 @@ footer.footer {
 
 .btn-success {
     --bs-btn-bg: #dc3545;
-        --bs-btn-border-color: #dc3545;
-        --bs-btn-hover-bg: #212529;
-        --bs-btn-hover-border-color: #212529;
-        --bs-btn-active-bg: #dc3545;
-        --bs-btn-active-border-color: #dc3545;
+    --bs-btn-border-color: #dc3545;
+    --bs-btn-hover-bg: #212529;
+    --bs-btn-hover-border-color: #212529;
+    --bs-btn-active-bg: #dc3545;
+    --bs-btn-active-border-color: #dc3545;
 }
+
 /*------Hero Image Styling-*/
 .hero-section {
     background-image: url("../images/site-images/hero-image.jpg");
@@ -197,7 +202,7 @@ footer.footer {
 }
 
 /*--Email Alert sign up styling--*/
-.register-btn{
+.register-btn {
     border-radius: 12px;
     border: none;
     color: white;
@@ -212,12 +217,12 @@ footer.footer {
 }
 
 /*--Fixtures Table Styling--*/
-.fixtures-table-heading{
+.fixtures-table-heading {
     text-align: center;
     font-weight: 600;
 }
 
-.table-heading{
+.table-heading {
     text-align: center;
 }
 
@@ -257,6 +262,7 @@ tr:nth-child(odd) {
     padding-top: 1%;
     padding-bottom: 1%;
 }
+
 footer.footer {
     background-color: #212529;
     color: white;
@@ -290,39 +296,42 @@ footer.footer {
     color: #dc3545;
 }
 
-footer{
+footer {
     margin-top: auto;
 }
 
 @media only screen and (max-width: 420px) {
-.navbar-brand {
+    .navbar-brand {
         font-family: 'Lunasima', sans-serif;
         font-size: 22px;
         font-weight: 600;
         color: white;
         padding-top: 5%;
         padding-bottom: 5%;
-}
-.email-form{
-    font-size: 0.75rem;
-}
-.register-btn {
-    border-radius: 12px;
-    border: none;
-    color: white;
-    padding: 1rem;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin-top: 5%;
-    margin-bottom: 5%;
-    cursor: pointer;
-}
-.container {
-    padding-left: 2.5%;
-    margin: 0;
-    padding-top: 3%;
-    padding-bottom: 3%;
-}
+    }
+
+    .email-form {
+        font-size: 0.75rem;
+    }
+
+    .register-btn {
+        border-radius: 12px;
+        border: none;
+        color: white;
+        padding: 1rem;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        cursor: pointer;
+    }
+
+    .container {
+        padding-left: 2.5%;
+        margin: 0;
+        padding-top: 3%;
+        padding-bottom: 3%;
+    }
 }
