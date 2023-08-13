@@ -32,6 +32,7 @@ body {
 .contents .btn {
     margin-top: 10px;
     --bs-btn-color: #ffffff;
+    --bs-btn-hover-color: #ffffff;
     --bs-btn-bg: #dc3545;
     --bs-btn-border-color: #dc3545;
     --bs-btn-hover-bg: #212529;
