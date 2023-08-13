@@ -16,6 +16,10 @@ body {
     font-weight: 600;
 }
 
+.news-sub-heading {
+    font-weight: 600;
+}
+
 /*------Colours--*/
 body {
     background-color: #eeeeee;
@@ -305,7 +309,7 @@ footer.footer {
 footer {
     margin-top: auto;
 }
-
+/*---Media Query mobile--*/
 @media only screen and (max-width: 420px) {
     .navbar-brand {
         font-family: 'Lunasima', sans-serif;
@@ -339,5 +343,24 @@ footer {
         margin: 0;
         padding-top: 3%;
         padding-bottom: 3%;
+    }
+}
+
+@media (max-width: 775px) {
+    .news-item .row {
+        flex-direction: column;
+    }
+
+    .news-image {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    .news-text {
+        text-align: center;
+    }
+
+    .news-sub-heading{
+        text-align: center;
     }
 }
