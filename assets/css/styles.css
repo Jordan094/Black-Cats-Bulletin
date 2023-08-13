@@ -188,11 +188,11 @@ footer.footer {
 }
 
 .contents {
-    background-color: #eeeeee;
+    background-color: #ffffff;
+    border: 2px solid #000;
     border-radius: 20px;
     padding-top: 20px;
     padding-left: 0px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     text-align: center;
     margin-bottom: 40%;
     width: 100%;
