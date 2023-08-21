@@ -119,6 +119,7 @@ The header contains navigation bar which is designed in a mobile first format wi
 
 ## Footer
 
+![Footer Styles](/assets/images/readme-images/features/footer-types.png)
 The footer for the website is simple and clean and easy for the user to understand. On the left there is fontawesome icons for social media pages and on the right of the page there is fontawesome icons for the contact and email sections. The design of the footer means that when the page is viewed on different size devices there is minimal change to the layout.
 
 ## Home Page
