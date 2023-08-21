@@ -183,3 +183,25 @@ Here are all of the wireframes designed for this page broken down into device le
   * [404 Page tablet wireframe](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(tablet).webp)
   * [404 Page desktop wireframe](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(desktop).webp)
 
+## Technologies Used
+
+* [HTML5](https://www.w3schools.com/html/html_intro.asp)
+  * HTML was used to create the web page
+* [CSS3](https://www.w3schools.com/css/css_intro.asp)
+  * CSS was used to style the web page
+* [GitHub](https://github.com/)
+  * I used github to create my repository and store my projects code.
+* [Code Anywhere](https://app.codeanywhere.com/)
+  * I used Code Anywhere as my IDE
+* [Chrome](https://www.google.com/intl/en_uk/chrome/)
+  * I tested my website and responsiveness throught creation using chrome developer tools.
+* [Balsamiq](https://balsamiq.com/)
+  * Balsamiq was used to create the wireframes during the design process.
+* [Google Fonts](https://fonts.google.com/)
+  * I used the font Lunasima which is a Google font, with a fallback font of Sans-Serif thoughout my whole project.
+* [Am I Responsive?](https://ui.dev/amiresponsive)
+  * This was used to test the responsiveness on all devices once the pages were complete.
+* [W3 Schools HTML Validation Service](https://validator.w3.org/)
+  * This was used to check for any HTML errors in the code.
+* [W3 Schools CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+  * This was used to check for any HTML errors in the code.
