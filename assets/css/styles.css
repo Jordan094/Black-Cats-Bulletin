@@ -232,6 +232,19 @@ footer.footer {
 }
 
 /*--Fixtures Table Styling--*/
+  .td-content-black, .td-content-white {
+    text-align: center;
+  }
+
+.td-content-white a {
+    color: white;
+}
+
+.td-content-black a {
+    color: black;
+}
+
+
 .table-heading {
     text-align: center;
 }
