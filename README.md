@@ -108,6 +108,7 @@ All pages on the website contain the same format navigation bar and footer for c
 
 ## Header
 
+![Header Styles](/assets/images/readme-images/features/header-types.png)
 The header contains navigation bar which is designed in a mobile first format with a hamburger button to expand the options for different pages. The background colour is red and the text is white. When viewing on a large device screen for example a desktop, all of the menu options will be visible.
 
 * The menu options are as follows:
