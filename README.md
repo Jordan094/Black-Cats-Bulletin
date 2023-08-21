@@ -32,6 +32,8 @@
 
 * Sunderland AFC Football club is one of the biggest football clubs in the north east. The play in the EFL Championship and have a global following. The Black Cats Bulletin website aims to bring fans from across the world together to one place to find updates surrounding the club. This website will showcase news, fixtures and results and where they currently are in the table.
 
+* Please be aware that due to the nature of the project and that it needs to submitted for grading whilst awaiting the outcome of this there will be no updates to the website so content such as fixtures and news may appear to be out of date.
+
 ## Site Owners Goals
 
 * The Black Cats Bulletin aims to be a go to platform for Sunderland AFC fans.
@@ -181,8 +183,3 @@ Here are all of the wireframes designed for this page broken down into device le
   * [404 Page tablet wireframe](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(tablet).webp)
   * [404 Page desktop wireframe](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(desktop).webp)
 
-# Features
-
-# Accessibility
-
-When designing the page I have considered the potential users 
