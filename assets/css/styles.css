@@ -58,6 +58,13 @@ body {
     color: white;
 }
 
+.success-title{
+    color: white;
+}
+.success-text {
+    color: white;
+}
+
 
 /*------Navbar Styling--*/
 .navbar {
@@ -147,6 +154,15 @@ footer.footer {
     --bs-btn-active-border-color: #dc3545;
 }
 
+.fa-classic,
+.fa-regular,
+.fa-solid,
+.far,
+.fas {
+    font-family: "Font Awesome 6 Free";
+    color: white;
+}
+
 /*------Hero Image Styling-*/
 .hero-section {
     background-image: url("../images/site-images/hero-image.jpg");
@@ -229,6 +245,24 @@ footer.footer {
     margin-top: 1%;
     margin-bottom: 2%;
     cursor: pointer;
+}
+
+/*--Email Sign up Success page--*/
+.success-container{
+    background-image: url("../images/site-images/hero-image.jpg");
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.container-full {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    /* Ensure the container takes at least the full viewport height */
 }
 /*--News Page Styling--*/
 .news-sub-heading{
