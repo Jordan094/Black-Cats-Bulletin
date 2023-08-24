@@ -230,11 +230,19 @@ footer.footer {
     margin-bottom: 2%;
     cursor: pointer;
 }
+/*--News Page Styling--*/
+.news-sub-heading{
+    padding-left: 10%;
+}
+.news-text{
+    padding-left: 10%
+}
 
 /*--Fixtures Table Styling--*/
-  .td-content-black, .td-content-white {
+.td-content-black,
+.td-content-white {
     text-align: center;
-  }
+}
 
 .td-content-white a {
     color: white;
@@ -254,7 +262,7 @@ footer.footer {
     width: 97%;
     table-layout: fixed;
     margin-left: 1.5%;
-    
+
 }
 
 td,
@@ -355,6 +363,7 @@ footer {
     }
 
 }
+
 /*---Media Query mobile--*/
 @media only screen and (max-width: 420px) {
     .navbar-brand {
@@ -393,7 +402,7 @@ footer {
 }
 
 @media (min-width: 992px) {
-.news-image {
-padding-left: 10%;
-}
+    .news-image {
+        padding-left: 10%;
+    }
 }
