@@ -262,13 +262,7 @@ footer.footer {
     min-height: 100vh;
     /* Ensure the container takes at least the full viewport height */
 }
-/*--News Page Styling--*/
-.news-sub-heading{
-    padding-left: 10%;
-}
-.news-text{
-    padding-left: 10%
-}
+
 
 /*--Fixtures Table Styling--*/
 .td-content-black,
@@ -436,5 +430,12 @@ footer {
 @media (min-width: 992px) {
     .news-image {
         padding-left: 10%;
+    }
+    .news-sub-heading {
+        padding-left: 10%;
+    }
+
+    .news-text {
+        padding-left: 10%
     }
 }
