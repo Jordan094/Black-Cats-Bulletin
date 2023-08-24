@@ -83,18 +83,18 @@
                 alerts!</h4>
             <hr>
             <br>
-            <form class="email-alerts-form text-center">
+            <form action="email-success.html" class="email-alerts-form text-center">
                 <label class="email-form" for="fname">First name:</label><br>
-                <input type="text" id="fname" name="fname" value=""><br>
+                <input type="text" id="fname" name="fname" placeholder="Enter your First Name" required><br>
                 <label class="email-form" for="lname">Last name:</label><br>
-                <input type="text" id="lname" name="lname" value=""><br>
+                <input type="text" id="lname" name="lname" placeholder="Enter your Last Name" required><br>
                 <label class="email-form" for="lname">Email:</label><br>
-                <input type="text" id="email" name="email" value=""><br><br>
+                <input type="text" id="email" name="email" placeholder="Enter your Email Address" required><br><br>
                 <label class="email-form" for="alert-scores">I only want updates on the final scores.</label>
                 <input type="radio" id="scores" name="alert_choice" value="scores"><br>
                 <label class="email-form" for="alert-all">I want to be alerted about everything you post!</label>
                 <input type="radio" id="all" name="alert_choice" value="all"><br>
-                <a class="register-btn" href="email-success.html">Register for alerts!</a>
+                <input class="register-btn" type="submit">
             </form>
         </div>
     </div>
