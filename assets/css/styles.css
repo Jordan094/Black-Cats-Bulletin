@@ -353,6 +353,7 @@ footer {
     .navbar-brand {
         font-size: 28px;
     }
+
 }
 /*---Media Query mobile--*/
 @media only screen and (max-width: 420px) {
@@ -389,4 +390,10 @@ footer {
         padding-top: 3%;
         padding-bottom: 3%;
     }
+}
+
+@media (min-width: 992px) {
+.news-image {
+padding-left: 10%;
+}
 }
