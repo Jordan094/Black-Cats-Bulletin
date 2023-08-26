@@ -358,7 +358,7 @@ footer.footer {
 footer {
     margin-top: auto;
 }
-
+/*---Media Query Desktop--*/
 @media (max-width: 990px) {
     .news-item .row {
         flex-direction: column;
@@ -389,7 +389,6 @@ footer {
     }
 
 }
-
 /*---Media Query mobile--*/
 @media only screen and (max-width: 450px) {
     .navbar-brand {
@@ -429,7 +428,7 @@ footer {
         padding-bottom: 3%;
     }
 }
-
+/*---Media Query Tablet--*/
 @media (min-width: 992px) {
     .news-image {
         padding-left: 10%;
