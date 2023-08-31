@@ -1,8 +1,8 @@
-# Black Cats Bulletin - Sunderland AFC Fan Page
+**Black Cats Bulletin - Sunderland AFC Fan Page**
 
-## Milestone Project 1 - Static Front-End Website
+### Milestone Project 1 - Static Front-End Website
 
-##### DISCLAIMER: This website is in no way affiliated with Sunderland AFC it is only to be used as my personal portfolio
+### DISCLAIMER: This website is in no way affiliated with Sunderland AFC it is only to be used as my personal portfolio
 
 * The Black Cats Bulletin is aimed to be a desstination for Sunderland AFC fans to find all information regarding Sunderland AFC. The website has been created to be responsive, ensuring it is user-friendly and visually attractive on all types of devices.
 * This website has been designed using HTML, CSS and Bootstrap 5. It is my submission for Code Institute's Level 5 Diploma in Web Application Development Milestone Project 1.
@@ -13,18 +13,37 @@
 
 ## Contents
 
-* [User Experience (UX)](#user-experience)
-  * [Background](#background)
-  * [Site Owners Goals](#site-owners-goals)
-  * [First Time User Goals](#first-time-user-goals)
-  * [Frequent User Goals](#frequent-user-goals)
-  * [Features to be included](#features-to-be-included)
-* [Design](#design)
-  * [Colour Pallette](#colour-pallete)
-  * [Typography](#typography)
-  * [Images Used](#images-used)
-  * [Videos](#videos)
-  * [Icons](#icons)
+
+- [User Experience](#user-experience)
+  - [Background](#background)
+  - [Site Owners Goals](#site-owners-goals)
+  - [First Time User Goals](#first-time-user-goals)
+  - [Frequent User Goals](#frequent-user-goals)
+  - [Features To Be Included](#features-to-be-included)
+- [Design](#design)
+  - [Colour Pallete](#colour-pallete)
+  - [Typography](#typography)
+  - [Images Used](#images-used)
+  - [Videos](#videos)
+  - [Icons](#icons)
+  - [Widgets](#widgets)
+- [Structure](#structure)
+  - [Website Layout](#website-layout)
+  - [Header](#header)
+  - [Footer](#footer)
+  - [Home Page](#home-page)
+  - [News Page](#news-page)
+  - [Fixtures Page](#fixtures-page)
+  - [Join the club page](#join-the-club-page)
+- [404 Page](#404-page)
+- [Wireframes](#wireframes)
+  - [Technologies Used](#technologies-used)
+  - [Accessibility](#accessibility)
+  - [Deployment \& Local Development](#deployment--local-development)
+    - [Deployment](#deployment)
+    - [Local Development](#local-development)
+    - [How to Fork](#how-to-fork)
+    - [How to Clone](#how-to-clone)
 
 # User Experience
 
