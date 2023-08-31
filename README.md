@@ -84,7 +84,7 @@
 
 ## Colour Pallete
 
-![Black Cats Bulletin Colour Pallette](/assets/images/readme-images/colour-pallette.png)
+![Black Cats Bulletin Colour Pallette](/assets/images/readme-images/colours/colour-pallette.png)
 [Pallette Created Using Coolors.co](https://coolors.co/)
 
 I have chosen the above colour pallette as I wanted to stay true to the colours of the Sunderland AFC team Red being the primary colour and White the secondary. I chose neutral gray colours to make sure there was no clashes. I have also used the Coolors contrast checker to ensure these are suitable.
