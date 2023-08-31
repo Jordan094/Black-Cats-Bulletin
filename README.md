@@ -92,6 +92,10 @@ The results section of the website has external links to the official clubs yout
 
 The websites footer uses fontawesome icons for external links to social media pages and also quick email and phone contact buttons. This is to make the footer easy to understand and have a simple clean layout.
 
+## Widgets
+
+As the website contains a lot of information that changes multiple times throughout the week. To keep it as up to date as possible I have chosen to use embedded widgets on my page. The website [Fctables](https://www.fctables.com/widgets/) offers a wide variety of football related widgets to chose from. I chosen to use the Next Match widget - which is live and also shows the score live during a game and the league table widget, the league table widget also updates live with all of the games being played and you are able to customise the widget to your liking by using either the designer provided or by editing the HTML code given.
+
 # Structure
 
 ## Website Layout
@@ -104,6 +108,7 @@ All pages on the website contain the same format navigation bar and footer for c
   * News - Has news and updates about the club
   * Fixtures - Shows the latest fixtures and recent results.
   * Join the club - Has 2 options. Join the club fully (Create an account) or sign up for email updates.
+  * Sign up success page - Confirming you have joined the club.
   * 404 Page - A page I do not intend users to find. This page should only be displayed when there is a broken URL.
 
 ## Header
@@ -207,3 +212,49 @@ Here are all of the wireframes designed for this page broken down into device le
   * This was used to check for any HTML errors in the code.
 * [W3 Schools CSS Validation Service](https://jigsaw.w3.org/css-validator/)
   * This was used to check for any HTML errors in the code.
+* [FCtables](https://www.fctables.com/widgets/)
+  * I used this website to generate live widgets to embed in to my own page.
+
+## Accessibility
+
+I wanted to ensure that the website was fully accessible. I have done this by doing the following:
+
+* Providing Alternative Text (Alt Text)
+  * I've made sure to add descriptive alternative text (alt text) to all images on the website. Alt text adds context to images, enabling users who rely on screen readers to understand the visual content even if they can't see it.
+* Ensuring Color Contrast
+  * I've chosen color combinations that maintain accessible contrast ratios, ensuring that text remains readable against different background colors. This benefits users with visual impairments or color blindness.
+* Responsive Design
+  * The site is designed to adapt to various devices and screen sizes. This caters to users who rely on different devices or have specific accessibility requirements.
+
+## Deployment & Local Development
+
+### Deployment
+
+The Black Cats Bulletin was made live through GitHub. This is how to deploy the Black Cats Bulletin again:
+
+1. Log in to your GitHub account or sign up if you don't have one.
+2. Locate the project's repository Jordan094/Black-Cats-Bulletin.
+3. Click on the "Settings" link in the repository menu.
+4. Navigate to the "Pages" section on the left-hand side.
+5. Under the "Source" section, choose "main" from the branch dropdown menu and "Root" from the folder dropdown menu.
+6. Click Save. Your live GitHub Pages site is now deployed at the URL shown.
+
+### Local Development
+
+### How to Fork
+
+To fork the Black Cats Bulletin repository:
+
+1. Log in to your GitHub account or sign up if you don't have one.
+2. Visit the repository at Jordan094/Black-Cats-Bulletin.
+3. Click the "Fork" button located at the top right corner.
+
+### How to Clone
+
+To clone the Black Cats Bulletin repository:
+
+1. Log in to your GitHub account or sign up if you don't have one..
+2. Go to the repository for this project, Jordan094/Black-Cats-Bulletin.
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
