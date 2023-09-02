@@ -37,13 +37,16 @@
   - [Join the club page](#join-the-club-page)
 - [404 Page](#404-page)
 - [Wireframes](#wireframes)
-  - [Technologies Used](#technologies-used)
-  - [Accessibility](#accessibility)
-  - [Deployment \& Local Development](#deployment--local-development)
-    - [Deployment](#deployment)
-    - [Local Development](#local-development)
+- [Technologies Used](#technologies-used)
+- [Accessibility](#accessibility)
+- [Deployment \& Local Development](#deployment--local-development)
+  - [Deployment](#deployment)
+  - [Local Development](#local-development)
     - [How to Fork](#how-to-fork)
     - [How to Clone](#how-to-clone)
+- [Credits](#credits)
+  - [Code](#code)
+  - [Content and Imagery](#content-and-imagery)
 
 # User Experience
 
@@ -209,7 +212,7 @@ Here are all of the wireframes designed for this page broken down into device le
   * [404 Page tablet wireframe](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(tablet).webp)
   * [404 Page desktop wireframe](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(desktop).webp)
 
-## Technologies Used
+# Technologies Used
 
 * [HTML5](https://www.w3schools.com/html/html_intro.asp)
   * HTML was used to create the web page
@@ -234,7 +237,7 @@ Here are all of the wireframes designed for this page broken down into device le
 * [FCtables](https://www.fctables.com/widgets/)
   * I used this website to generate live widgets to embed in to my own page.
 
-## Accessibility
+# Accessibility
 
 I wanted to ensure that the website was fully accessible. I have done this by doing the following:
 
@@ -245,9 +248,9 @@ I wanted to ensure that the website was fully accessible. I have done this by do
 * Responsive Design
   * The site is designed to adapt to various devices and screen sizes. This caters to users who rely on different devices or have specific accessibility requirements.
 
-## Deployment & Local Development
+# Deployment & Local Development
 
-### Deployment
+## Deployment
 
 The Black Cats Bulletin was made live through GitHub. This is how to deploy the Black Cats Bulletin again:
 
@@ -258,7 +261,7 @@ The Black Cats Bulletin was made live through GitHub. This is how to deploy the 
 5. Under the "Source" section, choose "main" from the branch dropdown menu and "Root" from the folder dropdown menu.
 6. Click Save. Your live GitHub Pages site is now deployed at the URL shown.
 
-### Local Development
+## Local Development
 
 ### How to Fork
 
@@ -277,3 +280,27 @@ To clone the Black Cats Bulletin repository:
 3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+
+
+# Credits
+
+## Code
+
+* Code Institute's Level 5 in Web Application Development course for providing me lessons and source code which has helped to create my website. 
+
+* BOOTSTRAP 5 which has enabled me to create my website in a responsive manner. My responsive Nav Bar. My sections which include my Hero Image and Footer are some examples of where Bootstrap is present on my website.
+
+* Fontawesome for providing me with icons which I have used ony my footer. 
+
+* FCTables which allowed me to add live widgets on my Home Page and League Table section.
+
+## Content and Imagery
+
+* [safc.com](SAFC.com) for providing me with a number of different resources which includes:
+  * Images of players, all of which are used on the news page.
+  * Various pieces of news information.
+  * Links to their official Youtube Channel which I have provided as external links on the Fixtures and Results page.
+  
+* [sjhoward.co.uk](https://sjhoward.co.uk) for the hero image.
+
+* [11v11](https://www.11v11.com/) for providing informtion and statistics which I have provided as external links on the Fixtures and Results page.
