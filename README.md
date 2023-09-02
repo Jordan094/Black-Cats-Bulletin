@@ -290,6 +290,8 @@ To clone the Black Cats Bulletin repository:
 
 * BOOTSTRAP 5 which has enabled me to create my website in a responsive manner. My responsive Nav Bar. My sections which include my Hero Image and Footer are some examples of where Bootstrap is present on my website.
 
+* W3Schools for providing examples of code for further customisation of my site and quick help for HTML elements.
+
 * Fontawesome for providing me with icons which I have used ony my footer. 
 
 * FCTables which allowed me to add live widgets on my Home Page and League Table section.
