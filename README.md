@@ -34,7 +34,8 @@
   - [Home Page](#home-page)
   - [News Page](#news-page)
   - [Fixtures Page](#fixtures-page)
-  - [Join the club page](#join-the-club-page)
+  - [Join the club Page](#join-the-club-page)
+  - [Email Sign Up Success Page](#email-sign-up-success-page)
   - [404 Page](#404-page)
 - [**Wireframes**](#wireframes)
 - [**Technologies Used**](#technologies-used)
@@ -53,7 +54,7 @@
     - [News Page](#news-page-1)
     - [Fixtures and Results Page](#fixtures-and-results-page)
     - [Join the club Page](#join-the-club-page-1)
-    - [Email Sign up Success Page](#email-sign-up-success-page)
+    - [Email Sign up Success Page](#email-sign-up-success-page-1)
     - [404 Page](#404-page-1)
   - [Validation and Tools](#validation-and-tools)
     - [W3C Validation Tools](#w3c-validation-tools)
@@ -193,7 +194,7 @@ The fixtures page (fixtures.html) consists of the header, followed by a HTML tab
 
 The fixtures page contains the same responsive elements for the header and footer that the other pages do but the table sizes adjusts to display correctly on which ever size device it is being viewed on.
 
-## Join the club page
+## Join the club Page
 
 ![Responsive Join Page Image](/assets/images/readme-images/responsive/join-responsive.png)
 
@@ -202,6 +203,12 @@ The fixtures page contains the same responsive elements for the header and foote
 The join the club page (join.html) consists of the header, followed by 2 different sections. The top section has an overview of fully joining the club and details the full ins and outs of the perks of joining, (these features will not be included in the current website but will be introduced in future iterations) a join now button which brings up a javascript modal to create an account. The bottom section is a simple HTML form to enter your Name and Email Address to sign up for email alerts.
 
 The join the club page contains the same responsive elements for the header and footer that the other pages do but like the fixtures pages the content sizes adjusts to display correctly on which ever size device it is being viewed on.
+
+## Email Sign Up Success Page
+
+![Responsive Email Sign up Success Page](/assets/images/readme-images/responsive/email-signup-responsive.png)
+
+[View the Email Sign up Success Page wireframes here:](/assets/images/readme-images/Wireframes/)
 
 ## 404 Page
 
