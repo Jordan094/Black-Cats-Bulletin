@@ -302,13 +302,13 @@ I also used [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) to ensure
 
 Below are my Validation Passes.
 
-[Index Page Pass](/assets/images/readme-images/validation/index-pass.png)
-[News Page Pass](/assets/images/readme-images/validation/news-pass.png)
-[Fixtures and Results Page Pass](/assets/images/readme-images/validation/fixtures-pass.png)
-[Join Page Pass](/assets/images/readme-images/validation/join-pass.png)
-[Sign up success Page Pass](/assets/images/readme-images/validation/email-signup-pass.png)
-[404 Page Pass](/assets/images/readme-images/validation/404-pass.png)
-[CSS Pass](/assets/images/readme-images/validation/CSS-pass.png)
+* [Index Page Pass](/assets/images/readme-images/validation/index-pass.png)
+* [News Page Pass](/assets/images/readme-images/validation/news-pass.png)
+* [Fixtures and Results Page Pass](/assets/images/readme-images/validation/fixtures-pass.png)
+* [Join Page Pass](/assets/images/readme-images/validation/join-pass.png)
+* [Sign up success Page Pass](/assets/images/readme-images/validation/email-signup-pass.png)
+* [404 Page Pass](/assets/images/readme-images/validation/404-pass.png)
+* [CSS Pass](/assets/images/readme-images/validation/CSS-pass.png)
 
 # Credits
 
