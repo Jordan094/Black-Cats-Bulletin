@@ -154,6 +154,8 @@ The footer for the website is simple and clean and easy for the user to understa
 
 ## Home Page
 
+![Responsive Index Page Image](/assets/images/readme-images/responsive/index-responsive.png)
+
 [View the home page wireframes here:](/assets/images/readme-images/Wireframes/Home%20-%20Black%20Cats%20Bulletin%20All.webp)
 
 The Home page (index.html) consists of the header, Hero Image, 3 previews of the main blocks of content (latest news, next fixture, condensed league table.) the latest news section and next fixture block takes you to their respective full web pages when pressed, whilst the condensed league table loads a full sized image. The footer is present at the bottom of the page.
@@ -161,6 +163,8 @@ The Home page (index.html) consists of the header, Hero Image, 3 previews of the
 The home page is responsive and when viewed on medium and smaller devices there are a number of changes, the navigation bar condenses into a dropdown menu, the 3 main content blocks diplay in vertical order instead of all inline horizontally and the footer compresses.
 
 ## News Page
+
+![Responsive News Page Image](/assets/images/readme-images/responsive/news-responsive.png)
 
 [View the news page wireframes here:](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin%20all.webp)
 
@@ -170,6 +174,8 @@ The news page is responsive and when viewed on medium and smaller devices there 
 
 ## Fixtures Page
 
+![Responsive Fixtures Page Image](/assets/images/readme-images/responsive/fixtures-responsive.png)
+
 [View the news page wireframes here:](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin%20all.webp)
 
 The fixtures page (fixtures.html) consists of the header, followed by a HTML table. Inside the HTML table there is 2 tabs.  Firstly there is the fixtures tab. It shows the 5 newest fixtures of the club. Each fixture will contain a link to an external site to view team stats. The second tab is a Results tab. It contains the 5 most recent results. Each result contains a hyperlink to an embedded youtube video with the match highlights. The footer is present at the bottom of the page.
@@ -178,6 +184,8 @@ The fixtures page contains the same responsive elements for the header and foote
 
 ## Join the club page
 
+![Responsive Join Page Image](/assets/images/readme-images/responsive/join-responsive.png)
+
 [View the join the club wireframes here:](/assets/images/readme-images/Wireframes/Join%20the%20club%20all.webp)
 
 The join the club page (join.html) consists of the header, followed by 2 different sections. The top section has an overview of fully joining the club and details the full ins and outs of the perks of joining, (these features will not be included in the current website but will be introduced in future iterations) a join now button which brings up a javascript modal to create an account. The bottom section is a simple HTML form to enter your Name and Email Address to sign up for email alerts.
@@ -185,6 +193,8 @@ The join the club page (join.html) consists of the header, followed by 2 differe
 The join the club page contains the same responsive elements for the header and footer that the other pages do but like the fixtures pages the content sizes adjusts to display correctly on which ever size device it is being viewed on.
 
 # 404 Page
+
+![Responsive 404 Page Image](/assets/images/readme-images/responsive/404-responsive.png)
 
 [View the 404 page wireframes here:](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(all).webp)
 
