@@ -309,6 +309,56 @@ Below is an overview of my testing and tests were carried out on the following d
 * ASUS Chromebook with 15.3" Screen
 * Windows 11 desktop computer with a 27" Monitor
 
+* **Navigation Bar** - Expectation: Respond to device being displayed on. Display all content on one row for desktops and Display as a drop-down menu with a logo and hamburger button on Medium and Smaller Devices. Result: Passed all tests.
+
+Further Navigation Bar testing:
+
+* **Site Logo** Expectation: Redirect the user to the home page. Respond to device being displayed on to ensure not too big on Mobile devices and not small on Desktop. Result: Passed all tests.
+
+* **Home Button** Expectation: Redirect the user to the home page. Button to go dark when hovered over and when page is active be underlined. Display on Navigation bar on large devices and cascade into dropdown menu and medium and small devices. Result: Passed all tests
+
+* **News Button** Expectation: Redirect the user to the news page. Button to go dark when hovered over and when page is active be underlined. Display on Navigation bar on large devices and cascade into dropdown menu and medium and small devices. Result: Passed all tests.
+
+* **Fixtures and Results Button** Expectation: Redirect the user to the Fixtures and Results page. Button to go dark when hovered over and when page is active be underlined. Display on Navigation bar on large devices and cascade into dropdown menu and medium and small devices. Result: Passed all tests.
+
+* **Join the Club Button** Expectation: Redirect the user to the Join the Club page. Button to go dark when hovered over and when page is active be underlined. Display on Navigation bar on large devices and cascade into dropdown menu and medium and small devices. Result: Passed all tests.
+
+* **Footer** Expectation: Respond to devices being displayed on. Social Media Icons to shown on the left of the screen. Contact Icons to be shown on the left. Footer thickness to scale with device so does not look overly thin on mobile devices or desktop. Result: Passed all tests.
+
+Further Footer testing:
+
+* **Facebook Button** Expectation: Font-awesome Icon in white. Displayed on left side of screen Re-directs user to Facebook website, displays in Red when hovered over. Result: Passed all tests.
+
+* **Twitter Button** Expectation: Font-awesome Icon in white. Displayed on left side of screen Re-directs user to Twitter website, displays in Red when hovered over. Result: Passed all tests.
+
+* **Instagram Button** Expectation: Font-awesome Icon in white. Displayed on left side of screen Re-directs user to Instagram website, displays in Red when hovered over. Result: Passed all tests.
+
+* **Phone Contact Button** Expectation: Font-awesome Icon in white. Displayed on right side of screen, hyperlink to call a contact number, displays in Red when hovered over. Result: Passed all tests.
+
+* **Email Contact Button** Expectation: Font-awesome Icon in white. Displayed on right side of screen, hyperlink to send an email, displays in Red when hovered over. Result: Passed all tests.
+
+**Page testing:**
+
+* **Home Page** Expectations:
+
+  * Display Responsive Navigation Bar at the top of the screen.
+  * Display Responsive Footer at the bottom of the screen.
+
+* **Hero Image Section** Expectations:
+
+  * Show a hero image below the footer.
+  * Have a welcome message.
+  * Display a message about joining the fan club.
+  * Have a learn more button that directs the user to the Join the club page.
+  * Be responsive on small medium and large devices.
+
+* **What's Happening? Section** Expectations:
+
+  * Contain 3 sections (News, Next Game and League Table) displayed horizontally on large devices and vertically on medium and small devices.
+  * News section to have latest news headline, an image relevant to the headline and a button saying See all news which directs the user to news.html
+  * Next Game section to have a live updating widget of the next game to be played with a date and time and also club images, also a button to see all fixtures and results which takes the user to the fixtures and results page.
+  * League table to have text telling the user what seasons table is being displayed and a scrollable small league table widget, also a button for the user to see the full league table which takes you to the league table section on the fixtures and results page.
+
 ## Validation and Tools
 
 ### W3C Validation Tools
@@ -347,7 +397,7 @@ I used [Am I Responsive?](https://ui.dev/amiresponsive) to ensure my page displa
 
 * W3Schools for providing examples of code for further customisation of my site and quick help for HTML elements.
 
-* Fontawesome for providing me with icons which I have used ony my footer. 
+* Fontawesome for providing me with icons which I have used ony my footer.
 
 * FCTables which allowed me to add live widgets on my Home Page and League Table section.
 
