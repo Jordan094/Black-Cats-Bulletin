@@ -168,7 +168,7 @@ The footer for the website is simple and clean and easy for the user to understa
 
 ![Responsive Index Page Image](/assets/images/readme-images/responsive/index-responsive.png)
 
-[View the home page wireframes here:](/assets/images/readme-images/Wireframes/Home%20-%20Black%20Cats%20Bulletin%20All.webp)
+[View the home page wireframes here:](/assets/images/readme-images/Wireframes/Home%20-%20Black%20Cats%20Bulletin%20All.png)
 
 The Home page (index.html) consists of the header, Hero Image, 3 previews of the main blocks of content (latest news, next fixture, condensed league table.) the latest news section and next fixture block takes you to their respective full web pages when pressed, whilst the condensed league table loads a full sized image. The footer is present at the bottom of the page.
 
@@ -178,7 +178,7 @@ The home page is responsive and when viewed on medium and smaller devices there 
 
 ![Responsive News Page Image](/assets/images/readme-images/responsive/news-responsive.png)
 
-[View the news page wireframes here:](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin%20all.webp)
+[View the news page wireframes here:](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin%20all.png)
 
 The news page (news.html) consists of the header, news and updates relating to Sunderland AFC. There is a picture usually accompanying the article, the news is delivered in bitesize chunks with links to where the information has came from. The latest news is at the top of the page and continues down. The footer is present at the bottom of the page.
 
@@ -188,7 +188,7 @@ The news page is responsive and when viewed on medium and smaller devices there 
 
 ![Responsive Fixtures Page Image](/assets/images/readme-images/responsive/fixtures-responsive.png)
 
-[View the news page wireframes here:](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin%20all.webp)
+[View the news page wireframes here:](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin%20all.png)
 
 The fixtures page (fixtures.html) consists of the header, followed by a HTML table. Inside the HTML table there is 2 tabs.  Firstly there is the fixtures tab. It shows the 5 newest fixtures of the club. Each fixture will contain a link to an external site to view team stats. The second tab is a Results tab. It contains the 5 most recent results. Each result contains a hyperlink to an embedded youtube video with the match highlights. The footer is present at the bottom of the page.
 
@@ -198,7 +198,7 @@ The fixtures page contains the same responsive elements for the header and foote
 
 ![Responsive Join Page Image](/assets/images/readme-images/responsive/join-responsive.png)
 
-[View the join the club wireframes here:](/assets/images/readme-images/Wireframes/Join%20the%20club%20all.webp)
+[View the join the club wireframes here:](/assets/images/readme-images/Wireframes/Join%20the%20club%20all.png)
 
 The join the club page (join.html) consists of the header, followed by 2 different sections. The top section has an overview of fully joining the club and details the full ins and outs of the perks of joining, (these features will not be included in the current website but will be introduced in future iterations) a join now button which brings up a javascript modal to create an account. The bottom section is a simple HTML form to enter your Name and Email Address to sign up for email alerts.
 
@@ -216,7 +216,7 @@ The sign up success page will be an extremely simple page notifying the user tha
 
 ![Responsive 404 Page Image](/assets/images/readme-images/responsive/404-responsive.png)
 
-[View the 404 page wireframes here:](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(all).webp)
+[View the 404 page wireframes here:](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(all).png)
 
 The 404 page will be extremely simple. It contains the same responsive design as the previously showcased pages and display a message saying the page could not be found and a back button which returns to the home page.
 
@@ -229,8 +229,8 @@ Here are all of the wireframes designed for this page broken down into device le
   * [Home Page tablet wireframe](/assets/images/readme-images/Wireframes/Home%20-%20Black%20Cats%20Bulletin%20(Tablet).png)
   * [Home Page desktop wireframe](/assets/images/readme-images/Wireframes/Home%20-%20Black%20Cats%20Bulletin.png)
 * News Page
-  * [News Page mobile wireframe](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin%20(Mobile).webp)
-  * [News Page tablet wireframe](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin%20(Tablet).webp)
+  * [News Page mobile wireframe](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin%20(Mobile).png)
+  * [News Page tablet wireframe](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin%20(Tablet).png)
   * [News Page desktop wireframe](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin.png)
 * Fixtures Page
   * [Fixtures Page mobile wireframe](/assets/images/readme-images/Wireframes/Fixtures%20%26%20Results%20-%20Black%20Cats%20Bulletin%20(Mobile).png)
