@@ -1,4 +1,4 @@
-**Black Cats Bulletin - Sunderland AFC Fan Page**
+## **Black Cats Bulletin - Sunderland AFC Fan Page**
 
 ### Milestone Project 1 - Static Front-End Website
 
@@ -46,6 +46,15 @@
     - [How to Clone](#how-to-clone)
 - [Testing](#testing)
   - [Site Testing](#site-testing)
+    - [**Navigation Bar**](#navigation-bar)
+    - [**Footer**](#footer-1)
+  - [**Page testing:**](#page-testing)
+    - [**Home Page**](#home-page-1)
+    - [**News Page**](#news-page-1)
+    - [**Fixtures and Results Page**](#fixtures-and-results-page)
+    - [**Join the club Page**](#join-the-club-page-1)
+    - [**Email Sign up Success Page**](#email-sign-up-success-page)
+    - [**404 Page**](#404-page-1)
   - [Validation and Tools](#validation-and-tools)
     - [W3C Validation Tools](#w3c-validation-tools)
     - [Responsiveness Testing](#responsiveness-testing)
@@ -309,7 +318,9 @@ Below is an overview of my testing and tests were carried out on the following d
 * ASUS Chromebook with 15.3" Screen
 * Windows 11 desktop computer with a 27" Monitor
 
-* **Navigation Bar** - Expectation: Respond to device being displayed on. Display all content on one row for desktops and Display as a drop-down menu with a logo and hamburger button on Medium and Smaller Devices. Result: Passed all tests.
+### **Navigation Bar**
+
+Expectation: Respond to device being displayed on. Display all content on one row for desktops and Display as a drop-down menu with a logo and hamburger button on Medium and Smaller Devices. Result: Passed all tests.
 
 Further Navigation Bar testing:
 
@@ -323,7 +334,9 @@ Further Navigation Bar testing:
 
 * **Join the Club Button** Expectation: Redirect the user to the Join the Club page. Button to go dark when hovered over and when page is active be underlined. Display on Navigation bar on large devices and cascade into dropdown menu and medium and small devices. Result: Passed all tests.
 
-* **Footer** Expectation: Respond to devices being displayed on. Social Media Icons to shown on the left of the screen. Contact Icons to be shown on the left. Footer thickness to scale with device so does not look overly thin on mobile devices or desktop. Result: Passed all tests.
+### **Footer**
+
+Expectation: Respond to devices being displayed on. Social Media Icons to shown on the left of the screen. Contact Icons to be shown on the left. Footer thickness to scale with device so does not look overly thin on mobile devices or desktop. Result: Passed all tests.
 
 Further Footer testing:
 
@@ -337,27 +350,125 @@ Further Footer testing:
 
 * **Email Contact Button** Expectation: Font-awesome Icon in white. Displayed on right side of screen, hyperlink to send an email, displays in Red when hovered over. Result: Passed all tests.
 
-**Page testing:**
+## **Page testing:**
 
-* **Home Page** Expectations:
+### **Home Page**
 
+* Expectations:
   * Display Responsive Navigation Bar at the top of the screen.
   * Display Responsive Footer at the bottom of the screen.
+  * Contain a section for the hero image and welcome message and a section for Whats Happening.
 
-* **Hero Image Section** Expectations:
-
+* **Hero Image Section**
+  
+* Expectations:
   * Show a hero image below the footer.
   * Have a welcome message.
   * Display a message about joining the fan club.
   * Have a learn more button that directs the user to the Join the club page.
   * Be responsive on small medium and large devices.
 
-* **What's Happening? Section** Expectations:
-
+* **What's Happening? Section**
+  
+* Expectations:
   * Contain 3 sections (News, Next Game and League Table) displayed horizontally on large devices and vertically on medium and small devices.
   * News section to have latest news headline, an image relevant to the headline and a button saying See all news which directs the user to news.html
   * Next Game section to have a live updating widget of the next game to be played with a date and time and also club images, also a button to see all fixtures and results which takes the user to the fixtures and results page.
   * League table to have text telling the user what seasons table is being displayed and a scrollable small league table widget, also a button for the user to see the full league table which takes you to the league table section on the fixtures and results page.
+
+Results: All home page testing passed.
+
+### **News Page**
+
+* Expectations:
+  * Display Responsive Navigation Bar at the top of the screen.
+  * Display Responsive Footer at the bottom of the screen.
+  * Display a News section with 3 articles.
+
+* **News Section**
+
+* Expectations:
+  * Show 3 News articles.
+  * Display the article headline in bold the article content in standard font and each article to have a relevant image.
+  * Response so that on a larger device the article headline and content is on the left hand of the screen and the image is on the right.
+  * Responsive so on medium and smaller devices the Article headline is at the top, then the image, then the content. [FAIL] Actual result is that the image is on the top of the article, then the headline, then the content.
+
+Result: One test failed on the news page. This will be fixed in future updates.
+
+### **Fixtures and Results Page**
+
+* Expectations
+  * Display Responsive Navigation Bar at the top of the screen.
+  * Display Responsive Footer at the bottom of the screen.
+  * Display a Fixtures and Results Table section
+  * Display a League Table section
+
+* **Fixtures and Results Section**
+  
+* Expectations:
+  * Display a table containing the 5 upcoming fixtures on the left of the table and the 5 most recent results on the right.
+  * Underneath each fixture have an external hyperlink which takes you to the 11v11.com page showing the club records against each other.
+  * Underneath each result have an external hyperlink which takes you to the Official clubs YouTube page where the match highlights are uploaded.
+  * Responsive table size to ensure correctly displays on large, medium and small devices.
+
+* **League Table Section**
+  
+* Expectations:
+  * Display a live league table widget what highlights Sunderland in Bold
+  * Be responsive to fill all screen sizes. [FAIL] Actual result is that league table only displaying in one size despite the use of media queries. Because of this designed in a mobile first format to ensure it fits all devices.
+
+Result: One test failed on the news page. This will be fixed in future updates.
+
+### **Join the club Page**
+
+* Expectations:
+  * Display Responsive Navigation Bar at the top of the screen.
+  * Display Responsive Footer at the bottom of the screen.
+  * Display a section to fully sign up to the club.
+  * Display a section to sign up for alerts only.
+
+* **Join the club Section**
+  
+* Expectations:
+
+  * Display a message to become a member
+  * Show a message stating what happens when you join the club
+  * Have a Join the club button that brings up a Java Script Modal to sign up
+  * The java script model to require email and password/password confirmation.
+
+* **Email alerts section**
+  
+* Expectations:
+
+  * Display a message that asks if the user would like to sign up for email alerts
+  * Contain a form for the user to fill in requiring First Name, Last Name, Email Address and a checkbox to ask if the user wants score updates or all updates.
+  * Have a submit button that take the user to the email sign up success page once completed.
+
+Results: All Join the Club page testing passed.
+
+### **Email Sign up Success Page**
+  
+* Expectations:
+
+  * Display Responsive Navigation Bar at the top of the screen.
+  * Display Responsive Footer at the bottom of the screen.
+  * Display a background image.
+  * Display a section to sign up for alerts only.
+  * Show a message thanking the user for signing up
+  * Have a button to return to the home page
+
+Results: All Join the Club page testing passed.
+
+### **404 Page**
+
+* Expectations:
+
+  * Display Responsive Navigation Bar at the top of the screen.
+  * Display Responsive Footer at the bottom of the screen.
+  * Display a message to say 404 page can not be found.
+  * Have a button to take the user to the home page
+
+Results: All Join the Club page testing passed.
 
 ## Validation and Tools
 
@@ -391,7 +502,7 @@ I used [Am I Responsive?](https://ui.dev/amiresponsive) to ensure my page displa
 
 ## Code
 
-* Code Institute's Level 5 in Web Application Development course for providing me lessons and source code which has helped to create my website. 
+* Code Institute's Level 5 in Web Application Development course for providing me lessons and source code which has helped to create my website.
 
 * BOOTSTRAP 5 which has enabled me to create my website in a responsive manner. My responsive Nav Bar. My sections which include my Hero Image and Footer are some examples of where Bootstrap is present on my website.
 
