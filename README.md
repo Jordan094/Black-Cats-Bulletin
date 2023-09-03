@@ -310,6 +310,8 @@ Below are my Validation Passes.
 * [404 Page Pass](/assets/images/readme-images/validation/404-pass.png)
 * [CSS Pass](/assets/images/readme-images/validation/CSS-pass.png)
 
+I used [Am I Responsive?](https://ui.dev/amiresponsive) to ensure my page displayed correctly on all devices. The screenshots are above each pages section in this readme however you can find all the screenshots in one place [here.](/assets/images/readme-images/responsive/)
+
 # Credits
 
 ## Code
