@@ -188,7 +188,7 @@ The news page is responsive and when viewed on medium and smaller devices there 
 
 ![Responsive Fixtures Page Image](/assets/images/readme-images/responsive/fixtures-responsive.png)
 
-[View the news page wireframes here:](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin%20all.png)
+[View the fixtures page wireframes here:](/assets/images/readme-images/Wireframes/Fixtures%20%26%20Results%20-%20Black%20Cats%20Bulletin.png)
 
 The fixtures page (fixtures.html) consists of the header, followed by a HTML table. Inside the HTML table there is 2 tabs.  Firstly there is the fixtures tab. It shows the 5 newest fixtures of the club. Each fixture will contain a link to an external site to view team stats. The second tab is a Results tab. It contains the 5 most recent results. Each result contains a hyperlink to an embedded youtube video with the match highlights. The footer is present at the bottom of the page.
 
