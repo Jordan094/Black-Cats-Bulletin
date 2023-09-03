@@ -45,7 +45,7 @@
     - [How to Fork](#how-to-fork)
     - [How to Clone](#how-to-clone)
 - [Testing](#testing)
-  - [Site Testing](#site-testing)
+  - [Site Wide Testing](#site-wide-testing)
     - [**Navigation Bar**](#navigation-bar)
     - [**Footer**](#footer-1)
   - [**Page testing:**](#page-testing)
@@ -307,8 +307,6 @@ To clone the Black Cats Bulletin repository:
 
 # Testing
 
-## Site Testing
-
 I performed manual testing all through the creation of my website. I would test to ensure full functionaility is present across all devices before committing any changes.
 
 Below is an overview of my testing and tests were carried out on the following devices:
@@ -317,6 +315,8 @@ Below is an overview of my testing and tests were carried out on the following d
 * Samsung Galaxy Tab
 * ASUS Chromebook with 15.3" Screen
 * Windows 11 desktop computer with a 27" Monitor
+
+## Site Wide Testing
 
 ### **Navigation Bar**
 
