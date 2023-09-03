@@ -45,8 +45,10 @@
     - [How to Fork](#how-to-fork)
     - [How to Clone](#how-to-clone)
 - [Testing](#testing)
+  - [Site Testing](#site-testing)
   - [Validation and Tools](#validation-and-tools)
     - [W3C Validation Tools](#w3c-validation-tools)
+    - [Responsiveness Testing](#responsiveness-testing)
 - [Credits](#credits)
   - [Code](#code)
   - [Content and Imagery](#content-and-imagery)
@@ -296,6 +298,17 @@ To clone the Black Cats Bulletin repository:
 
 # Testing
 
+## Site Testing
+
+I performed manual testing all through the creation of my website. I would test to ensure full functionaility is present across all devices before committing any changes.
+
+Below is an overview of my testing and tests were carried out on the following devices:
+
+* Samsung Galaxy S22 Ultra
+* Samsung Galaxy Tab
+* ASUS Chromebook with 15.3" Screen
+* Windows 11 desktop computer with a 27" Monitor
+
 ## Validation and Tools
 
 ### W3C Validation Tools
@@ -319,6 +332,8 @@ Below are my Validation Passes.
 * [Sign up success Page Pass](/assets/images/readme-images/validation/email-signup-pass.png)
 * [404 Page Pass](/assets/images/readme-images/validation/404-pass.png)
 * [CSS Pass](/assets/images/readme-images/validation/CSS-pass.png)
+
+### Responsiveness Testing
 
 I used [Am I Responsive?](https://ui.dev/amiresponsive) to ensure my page displayed correctly on all devices. The screenshots are above each pages section in this readme however you can find all the screenshots in one place [here.](/assets/images/readme-images/responsive/)
 
