@@ -62,6 +62,7 @@
 - [**Credits**](#credits)
   - [Code](#code)
   - [Content and Imagery](#content-and-imagery)
+- [**Acknowledgements**](#acknowledgements)
 
 # **User Experience**
 
@@ -517,7 +518,7 @@ I used [Am I Responsive?](https://ui.dev/amiresponsive) to ensure my page displa
 
 * [Code Institute's Level 5 in Web Application Development course](https://codeinstitute.net/) for providing me lessons and source code which has helped to create my website.
   
-* [Code Anywhere](https://app.codeanywhere.com/) for providing me with an IDE to build my website on. 
+* [Code Anywhere](https://app.codeanywhere.com/) for providing me with an IDE to build my website on.
 
 * [BOOTSTRAP 5](https://getbootstrap.com/) which has enabled me to create my website in a responsive manner. My responsive Nav Bar. My sections which include my Hero Image and Footer are some examples of where Bootstrap is present on my website.
 
@@ -537,3 +538,21 @@ I used [Am I Responsive?](https://ui.dev/amiresponsive) to ensure my page displa
 * [sjhoward.co.uk](https://sjhoward.co.uk) for the hero image.
 
 * [11v11](https://www.11v11.com/) for providing informtion and statistics which I have provided as external links on the Fixtures and Results page.
+
+# **Acknowledgements**
+
+* Thank you to [Code Institute](https://codeinstitute.net/) staff for providing me lessons.
+  
+* Thank you to [City of Bristol College](https://www.cityofbristol.ac.uk/) for facilitating my learning.
+
+* Thank you to Pasquale Fasulo for my tutoring sessions and [Manuel Perez Romero](https://github.com/Manuperezro) for my one to one session.
+  
+* Thank you to [Marcel Mulders](https://code-institute-room.slack.com/team/U01RGQ4HANL) for my Mentoring Sessions.
+
+* Thank you to [Daniel Matthews](https://github.com/Dan-Matthews-23) for support offered and also for testing.
+
+* Thank you to Levi Webb for providing android testing and laptop testing.
+
+* Thank you to Lewis Glass for Android testing on an OPPO Device (Narrow Screen).
+  
+* Thank you to Josh Ainsley for iOS testing.
