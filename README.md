@@ -208,7 +208,9 @@ The join the club page contains the same responsive elements for the header and 
 
 ![Responsive Email Sign up Success Page](/assets/images/readme-images/responsive/email-signup-responsive.png)
 
-[View the Email Sign up Success Page wireframes here:](/assets/images/readme-images/Wireframes/)
+[View the Email Sign up Success Page wireframes here:](/assets/images/readme-images/Wireframes/Email%20Sign%20Up%20Success%20-%20Black%20Cats%20Bulletin%20(all).png)
+
+The sign up success page will be an extremely simple page notifying the user that they have successfully signed up for email alerts. It contains the same background as the hero image.
 
 ## 404 Page
 
@@ -223,25 +225,29 @@ The 404 page will be extremely simple. It contains the same responsive design as
 Here are all of the wireframes designed for this page broken down into device level. You can find the combined wireframes on the sections above.
 
 * Home page
-  * [Home Page mobile wireframe](/assets/images/readme-images/Wireframes/Home%20-%20Black%20Cats%20Bulletin%20(Mobile).webp)
-  * [Home Page tablet wireframe](/assets/images/readme-images/Wireframes/Home%20-%20Black%20Cats%20Bulletin%20(Tablet).webp)
-  * [Home Page desktop wireframe](/assets/images/readme-images/Wireframes/Home%20-%20Black%20Cats%20Bulletin.webp)
+  * [Home Page mobile wireframe](/assets/images/readme-images/Wireframes/Home%20-%20Black%20Cats%20Bulletin%20(Mobile).png)
+  * [Home Page tablet wireframe](/assets/images/readme-images/Wireframes/Home%20-%20Black%20Cats%20Bulletin%20(Tablet).png)
+  * [Home Page desktop wireframe](/assets/images/readme-images/Wireframes/Home%20-%20Black%20Cats%20Bulletin.png)
 * News Page
   * [News Page mobile wireframe](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin%20(Mobile).webp)
   * [News Page tablet wireframe](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin%20(Tablet).webp)
-  * [News Page desktop wireframe](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin.webp)
+  * [News Page desktop wireframe](/assets/images/readme-images/Wireframes/News%20-%20Black%20Cats%20Bulletin.png)
 * Fixtures Page
-  * [Fixtures Page mobile wireframe](/assets/images/readme-images/Wireframes/Fixtures%20%26%20Results%20-%20Black%20Cats%20Bulletin%20(Mobile).webp)
-  * [Fixtures Page tablet wireframe](/assets/images/readme-images/Wireframes/Fixtures%20%26%20Results%20-%20Black%20Cats%20Bulletin%20(Tablet)%20.webp)
-  * [Fixtures Page desktop wireframe](/assets/images/readme-images/Wireframes/Fixtures%20%26%20Results%20-%20Black%20Cats%20Bulletin.webp.webp)
+  * [Fixtures Page mobile wireframe](/assets/images/readme-images/Wireframes/Fixtures%20%26%20Results%20-%20Black%20Cats%20Bulletin%20(Mobile).png)
+  * [Fixtures Page tablet wireframe](/assets/images/readme-images/Wireframes/Fixtures%20%26%20Results%20-%20Black%20Cats%20Bulletin%20(Tablet)%20.png)
+  * [Fixtures Page desktop wireframe](/assets/images/readme-images/Wireframes/Fixtures%20%26%20Results%20-%20Black%20Cats%20Bulletin.png)
 * Join Page
-  * [Join Page mobile wireframe](/assets/images/readme-images/Wireframes/Join%20the%20club%20-%20Black%20Cats%20Bulletin%20(Mobile).webp)
-  * [Join Page tablet wireframe](/assets/images/readme-images/Wireframes/Join%20the%20club%20-%20Black%20Cats%20Bulletin%20(Tablet)%20.webp)
-  * [Join Page desktop wireframe](/assets/images/readme-images/Wireframes/Join%20the%20club%20-%20Black%20Cats%20Bulletin.webp)
+  * [Join Page mobile wireframe](/assets/images/readme-images/Wireframes/Join%20the%20club%20-%20Black%20Cats%20Bulletin%20(Mobile).png)
+  * [Join Page tablet wireframe](/assets/images/readme-images/Wireframes/Join%20the%20club%20-%20Black%20Cats%20Bulletin%20(Tablet)%20.png)
+  * [Join Page desktop wireframe](/assets/images/readme-images/Wireframes/Join%20the%20club%20-%20Black%20Cats%20Bulletin.)
+* Email Sign Up Success Page
+  * [Email Sign Up Success Page mobile wireframe](/assets/images/readme-images/Wireframes/Email%20Sign%20Up%20Success%20-%20Black%20Cats%20Bulletin%20(mobile).png)
+  * [Email Sign Up Success Page tablet wireframe](/assets/images/readme-images/Wireframes/Email%20Sign%20Up%20Success%20-%20Black%20Cats%20Bulletin%20(tablet).png)
+  * [Email Sign Up Success Page desktop wireframe](/assets/images/readme-images/Wireframes/Email%20Sign%20Up%20Success%20-%20Black%20Cats%20Bulletin%20(desktop).png)
 * 404 Page
-  * [404 Page mobile wireframe](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(mobile).webp)
-  * [404 Page tablet wireframe](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(tablet).webp)
-  * [404 Page desktop wireframe](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(desktop).webp)
+  * [404 Page mobile wireframe](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(mobile).png)
+  * [404 Page tablet wireframe](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(tablet).png)
+  * [404 Page desktop wireframe](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(desktop).png)
 
 # **Technologies Used**
 
@@ -510,6 +516,8 @@ I used [Am I Responsive?](https://ui.dev/amiresponsive) to ensure my page displa
 ## Code
 
 * [Code Institute's Level 5 in Web Application Development course](https://codeinstitute.net/) for providing me lessons and source code which has helped to create my website.
+  
+* [Code Anywhere](https://app.codeanywhere.com/) for providing me with an IDE to build my website on. 
 
 * [BOOTSTRAP 5](https://getbootstrap.com/) which has enabled me to create my website in a responsive manner. My responsive Nav Bar. My sections which include my Hero Image and Footer are some examples of where Bootstrap is present on my website.
 
