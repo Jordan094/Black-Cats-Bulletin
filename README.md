@@ -14,20 +14,20 @@
 ## Contents
 
 
-- [User Experience](#user-experience)
+- [**User Experience**](#user-experience)
   - [Background](#background)
   - [Site Owners Goals](#site-owners-goals)
   - [First Time User Goals](#first-time-user-goals)
   - [Frequent User Goals](#frequent-user-goals)
   - [Features To Be Included](#features-to-be-included)
-- [Design](#design)
+- [**Design**](#design)
   - [Colour Pallete](#colour-pallete)
   - [Typography](#typography)
   - [Images Used](#images-used)
   - [Videos](#videos)
   - [Icons](#icons)
   - [Widgets](#widgets)
-- [Structure](#structure)
+- [**Structure**](#structure)
   - [Website Layout](#website-layout)
   - [Header](#header)
   - [Footer](#footer)
@@ -35,34 +35,34 @@
   - [News Page](#news-page)
   - [Fixtures Page](#fixtures-page)
   - [Join the club page](#join-the-club-page)
-- [404 Page](#404-page)
-- [Wireframes](#wireframes)
-- [Technologies Used](#technologies-used)
-- [Accessibility](#accessibility)
-- [Deployment \& Local Development](#deployment--local-development)
+  - [404 Page](#404-page)
+- [**Wireframes**](#wireframes)
+- [**Technologies Used**](#technologies-used)
+- [**Accessibility**](#accessibility)
+- [**Deployment \& Local Development**](#deployment--local-development)
   - [Deployment](#deployment)
   - [Local Development](#local-development)
     - [How to Fork](#how-to-fork)
     - [How to Clone](#how-to-clone)
-- [Testing](#testing)
+- [**Testing**](#testing)
   - [Site Wide Testing](#site-wide-testing)
-    - [**Navigation Bar**](#navigation-bar)
-    - [**Footer**](#footer-1)
-  - [**Page testing:**](#page-testing)
-    - [**Home Page**](#home-page-1)
-    - [**News Page**](#news-page-1)
+    - [Navigation Bar](#navigation-bar)
+    - [Footer](#footer-1)
+  - [Page testing](#page-testing)
+    - [Home Page](#home-page-1)
+    - [News Page](#news-page-1)
     - [**Fixtures and Results Page**](#fixtures-and-results-page)
-    - [**Join the club Page**](#join-the-club-page-1)
-    - [**Email Sign up Success Page**](#email-sign-up-success-page)
-    - [**404 Page**](#404-page-1)
+    - [Join the club Page](#join-the-club-page-1)
+    - [Email Sign up Success Page](#email-sign-up-success-page)
+    - [404 Page](#404-page-1)
   - [Validation and Tools](#validation-and-tools)
     - [W3C Validation Tools](#w3c-validation-tools)
     - [Responsiveness Testing](#responsiveness-testing)
-- [Credits](#credits)
+- [**Credits**](#credits)
   - [Code](#code)
   - [Content and Imagery](#content-and-imagery)
 
-# User Experience
+# **User Experience**
 
 ## Background
 
@@ -97,7 +97,7 @@
 * Quick access links to different pages in the navigation bar.
 * 404 page for invalid content with a report a problem form to inform the site owner.
 
-# Design
+# **Design**
 
 ## Colour Pallete
 
@@ -132,7 +132,7 @@ The websites footer uses fontawesome icons for external links to social media pa
 
 As the website contains a lot of information that changes multiple times throughout the week. To keep it as up to date as possible I have chosen to use embedded widgets on my page. The website [Fctables](https://www.fctables.com/widgets/) offers a wide variety of football related widgets to chose from. I chosen to use the Next Match widget - which is live and also shows the score live during a game and the league table widget, the league table widget also updates live with all of the games being played and you are able to customise the widget to your liking by using either the designer provided or by editing the HTML code given.
 
-# Structure
+# **Structure**
 
 ## Website Layout
 
@@ -203,7 +203,7 @@ The join the club page (join.html) consists of the header, followed by 2 differe
 
 The join the club page contains the same responsive elements for the header and footer that the other pages do but like the fixtures pages the content sizes adjusts to display correctly on which ever size device it is being viewed on.
 
-# 404 Page
+## 404 Page
 
 ![Responsive 404 Page Image](/assets/images/readme-images/responsive/404-responsive.png)
 
@@ -211,7 +211,7 @@ The join the club page contains the same responsive elements for the header and 
 
 The 404 page will be extremely simple. It contains the same responsive design as the previously showcased pages and display a message saying the page could not be found and a back button which returns to the home page.
 
-# Wireframes
+# **Wireframes**
 
 Here are all of the wireframes designed for this page broken down into device level. You can find the combined wireframes on the sections above.
 
@@ -236,7 +236,7 @@ Here are all of the wireframes designed for this page broken down into device le
   * [404 Page tablet wireframe](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(tablet).webp)
   * [404 Page desktop wireframe](/assets/images/readme-images/Wireframes/404%20-%20Black%20Cats%20Bulletin%20(desktop).webp)
 
-# Technologies Used
+# **Technologies Used**
 
 * [HTML5](https://www.w3schools.com/html/html_intro.asp)
   * HTML was used to create the web page
@@ -261,7 +261,7 @@ Here are all of the wireframes designed for this page broken down into device le
 * [FCtables](https://www.fctables.com/widgets/)
   * I used this website to generate live widgets to embed in to my own page.
 
-# Accessibility
+# **Accessibility**
 
 I wanted to ensure that the website was fully accessible. I have done this by doing the following:
 
@@ -272,7 +272,7 @@ I wanted to ensure that the website was fully accessible. I have done this by do
 * Responsive Design
   * The site is designed to adapt to various devices and screen sizes. This caters to users who rely on different devices or have specific accessibility requirements.
 
-# Deployment & Local Development
+# **Deployment & Local Development**
 
 ## Deployment
 
@@ -305,7 +305,7 @@ To clone the Black Cats Bulletin repository:
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 
-# Testing
+# **Testing**
 
 I performed manual testing all through the creation of my website. I would test to ensure full functionaility is present across all devices before committing any changes.
 
@@ -318,7 +318,7 @@ Below is an overview of my testing and tests were carried out on the following d
 
 ## Site Wide Testing
 
-### **Navigation Bar**
+### Navigation Bar
 
 Expectation: Respond to device being displayed on. Display all content on one row for desktops and Display as a drop-down menu with a logo and hamburger button on Medium and Smaller Devices. Result: Passed all tests.
 
@@ -334,7 +334,7 @@ Further Navigation Bar testing:
 
 * **Join the Club Button** Expectation: Redirect the user to the Join the Club page. Button to go dark when hovered over and when page is active be underlined. Display on Navigation bar on large devices and cascade into dropdown menu and medium and small devices. Result: Passed all tests.
 
-### **Footer**
+### Footer
 
 Expectation: Respond to devices being displayed on. Social Media Icons to shown on the left of the screen. Contact Icons to be shown on the left. Footer thickness to scale with device so does not look overly thin on mobile devices or desktop. Result: Passed all tests.
 
@@ -350,9 +350,9 @@ Further Footer testing:
 
 * **Email Contact Button** Expectation: Font-awesome Icon in white. Displayed on right side of screen, hyperlink to send an email, displays in Red when hovered over. Result: Passed all tests.
 
-## **Page testing:**
+## Page testing
 
-### **Home Page**
+### Home Page
 
 * Expectations:
   * Display Responsive Navigation Bar at the top of the screen.
@@ -378,7 +378,7 @@ Further Footer testing:
 
 Results: All home page testing passed.
 
-### **News Page**
+### News Page
 
 * Expectations:
   * Display Responsive Navigation Bar at the top of the screen.
@@ -419,7 +419,7 @@ Result: One test failed on the news page. This will be fixed in future updates.
 
 Result: One test failed on the news page. This will be fixed in future updates.
 
-### **Join the club Page**
+### Join the club Page
 
 * Expectations:
   * Display Responsive Navigation Bar at the top of the screen.
@@ -446,7 +446,7 @@ Result: One test failed on the news page. This will be fixed in future updates.
 
 Results: All Join the Club page testing passed.
 
-### **Email Sign up Success Page**
+### Email Sign up Success Page
   
 * Expectations:
 
@@ -459,7 +459,7 @@ Results: All Join the Club page testing passed.
 
 Results: All Join the Club page testing passed.
 
-### **404 Page**
+### 404 Page
 
 * Expectations:
 
@@ -498,7 +498,7 @@ Below are my Validation Passes.
 
 I used [Am I Responsive?](https://ui.dev/amiresponsive) to ensure my page displayed correctly on all devices. The screenshots are above each pages section in this readme however you can find all the screenshots in one place [here.](/assets/images/readme-images/responsive/)
 
-# Credits
+# **Credits**
 
 ## Code
 
