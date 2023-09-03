@@ -239,7 +239,7 @@ Here are all of the wireframes designed for this page broken down into device le
 * Join Page
   * [Join Page mobile wireframe](/assets/images/readme-images/Wireframes/Join%20the%20club%20-%20Black%20Cats%20Bulletin%20(Mobile).png)
   * [Join Page tablet wireframe](/assets/images/readme-images/Wireframes/Join%20the%20club%20-%20Black%20Cats%20Bulletin%20(Tablet)%20.png)
-  * [Join Page desktop wireframe](/assets/images/readme-images/Wireframes/Join%20the%20club%20-%20Black%20Cats%20Bulletin.)
+  * [Join Page desktop wireframe](/assets/images/readme-images/Wireframes/Join%20the%20club%20-%20Black%20Cats%20Bulletin.png)
 * Email Sign Up Success Page
   * [Email Sign Up Success Page mobile wireframe](/assets/images/readme-images/Wireframes/Email%20Sign%20Up%20Success%20-%20Black%20Cats%20Bulletin%20(mobile).png)
   * [Email Sign Up Success Page tablet wireframe](/assets/images/readme-images/Wireframes/Email%20Sign%20Up%20Success%20-%20Black%20Cats%20Bulletin%20(tablet).png)
