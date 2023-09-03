@@ -44,6 +44,9 @@
   - [Local Development](#local-development)
     - [How to Fork](#how-to-fork)
     - [How to Clone](#how-to-clone)
+- [Testing](#testing)
+  - [Validation and Tools](#validation-and-tools)
+    - [W3C Validation Tools](#w3c-validation-tools)
 - [Credits](#credits)
   - [Code](#code)
   - [Content and Imagery](#content-and-imagery)
@@ -281,6 +284,31 @@ To clone the Black Cats Bulletin repository:
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 
+# Testing
+
+## Validation and Tools
+
+### W3C Validation Tools
+
+Once my pages were complete I used [W3C Markup Validation Service](https://validator.w3.org/) to ensure my code had no errors.
+
+The following errors were encountered:
+
+* My Widgets used from FCTables had an obsolete element of frameborder and to use CSS instead on my index page and league table section. As no frame border was needed, I removed this element from the HTML code.
+* My Widgets used from FCTables had an obsolete element of scrolling and to use CSS instead on my index page and league table section this was only present on my league table section however as this element was set to no and was needed I removed this element from the HTML code.
+* I had left a stray 'a' element in my footer. This has now been removed.  
+
+I also used [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) to ensure my code has no CSS errors. This came back as a pass.
+
+Below are my Validation Passes.
+
+[Index Page Pass](/assets/images/readme-images/validation/index-pass.png)
+[News Page Pass](/assets/images/readme-images/validation/news-pass.png)
+[Fixtures and Results Page Pass](/assets/images/readme-images/validation/fixtures-pass.png)
+[Join Page Pass](/assets/images/readme-images/validation/join-pass.png)
+[Sign up success Page Pass](/assets/images/readme-images/validation/email-signup-pass.png)
+[404 Page Pass](/assets/images/readme-images/validation/404-pass.png)
+[CSS Pass](/assets/images/readme-images/validation/CSS-pass.png)
 
 # Credits
 
