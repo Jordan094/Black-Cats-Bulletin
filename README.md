@@ -51,7 +51,7 @@
   - [Page testing](#page-testing)
     - [Home Page](#home-page-1)
     - [News Page](#news-page-1)
-    - [**Fixtures and Results Page**](#fixtures-and-results-page)
+    - [Fixtures and Results Page](#fixtures-and-results-page)
     - [Join the club Page](#join-the-club-page-1)
     - [Email Sign up Success Page](#email-sign-up-success-page)
     - [404 Page](#404-page-1)
@@ -395,7 +395,7 @@ Results: All home page testing passed.
 
 Result: One test failed on the news page. This will be fixed in future updates.
 
-### **Fixtures and Results Page**
+### Fixtures and Results Page
 
 * Expectations
   * Display Responsive Navigation Bar at the top of the screen.
@@ -502,19 +502,19 @@ I used [Am I Responsive?](https://ui.dev/amiresponsive) to ensure my page displa
 
 ## Code
 
-* Code Institute's Level 5 in Web Application Development course for providing me lessons and source code which has helped to create my website.
+* [Code Institute's Level 5 in Web Application Development course](https://codeinstitute.net/) for providing me lessons and source code which has helped to create my website.
 
-* BOOTSTRAP 5 which has enabled me to create my website in a responsive manner. My responsive Nav Bar. My sections which include my Hero Image and Footer are some examples of where Bootstrap is present on my website.
+* [BOOTSTRAP 5](https://getbootstrap.com/) which has enabled me to create my website in a responsive manner. My responsive Nav Bar. My sections which include my Hero Image and Footer are some examples of where Bootstrap is present on my website.
 
-* W3Schools for providing examples of code for further customisation of my site and quick help for HTML elements.
+* [W3Schools](https://www.w3schools.com/) for providing examples of code for further customisation of my site and quick help for HTML elements.
 
-* Fontawesome for providing me with icons which I have used ony my footer.
+* [Fontawesome](https://fontawesome.com/) for providing me with icons which I have used ony my footer.
 
-* FCTables which allowed me to add live widgets on my Home Page and League Table section.
+* [FCTables](https://www.fctables.com/widgets/) which allowed me to add live widgets on my Home Page and League Table section.
 
 ## Content and Imagery
 
-* [safc.com](SAFC.com) for providing me with a number of different resources which includes:
+* [Sunderland AFC Official Club Page](SAFC.com) for providing me with a number of different resources which includes:
   * Images of players, all of which are used on the news page.
   * Various pieces of news information.
   * Links to their official Youtube Channel which I have provided as external links on the Fixtures and Results page.
