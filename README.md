@@ -58,16 +58,7 @@
     - [404 Page](#404-page-1)
   - [Testing User Stories from User Experience (UX) Section](#testing-user-stories-from-user-experience-ux-section)
     - [First Time User Goals](#first-time-user-goals-1)
-      - [As a first-time user, I want to easily navigate the website on different devices, including a desktop computer, a tablet, and a smartphone](#as-a-first-time-user-i-want-to-easily-navigate-the-website-on-different-devices-including-a-desktop-computer-a-tablet-and-a-smartphone)
-      - [As a first time user, I want to understand the purpose of the website and what is on offer to me as a user](#as-a-first-time-user-i-want-to-understand-the-purpose-of-the-website-and-what-is-on-offer-to-me-as-a-user)
-      - [As a first time user, I want to see contact details to reach the website owner](#as-a-first-time-user-i-want-to-see-contact-details-to-reach-the-website-owner)
-      - [As a first time user, I want to have access to links to visit extenal pages such as Black Cats Buletin social media pages and the official clubs website](#as-a-first-time-user-i-want-to-have-access-to-links-to-visit-extenal-pages-such-as-black-cats-buletin-social-media-pages-and-the-official-clubs-website)
-      - [As a first time user, I want to be able to sign up to join the fan club. Or opt in for emails alerts to new developments that are published on the website](#as-a-first-time-user-i-want-to-be-able-to-sign-up-to-join-the-fan-club-or-opt-in-for-emails-alerts-to-new-developments-that-are-published-on-the-website)
     - [Frequent User Goals](#frequent-user-goals-1)
-      - [As a frequent user, I want to find out which teams the club will be playing in the upcomming games and view results from games played](#as-a-frequent-user-i-want-to-find-out-which-teams-the-club-will-be-playing-in-the-upcomming-games-and-view-results-from-games-played)
-      - [As a frequent user, I want to see any news and developments surrounding the club such as transfers, ticket sales, special events and store updates](#as-a-frequent-user-i-want-to-see-any-news-and-developments-surrounding-the-club-such-as-transfers-ticket-sales-special-events-and-store-updates)
-      - [As a frequent user, I want to view the league table and see where what the clubs current position is](#as-a-frequent-user-i-want-to-view-the-league-table-and-see-where-what-the-clubs-current-position-is)
-      - [As a frequent user, I want to see contact details to reach the website owner](#as-a-frequent-user-i-want-to-see-contact-details-to-reach-the-website-owner)
   - [Validation and Tools](#validation-and-tools)
     - [W3C Validation Tools](#w3c-validation-tools)
     - [Responsiveness Testing](#responsiveness-testing)
@@ -500,7 +491,7 @@ Results: All Join the Club page testing passed.
 
 ### First Time User Goals
 
-#### As a first-time user, I want to easily navigate the website on different devices, including a desktop computer, a tablet, and a smartphone
+**As a first-time user, I want to easily navigate the website on different devices, including a desktop computer, a tablet, and a smartphone**
 
     - The top of each web page has a header which includes the site logo and the navigation menu that allows easy access to all pages the user may want to view.
     - The bottom of the page has a footer with the external icon links to social media pages and also a email and phone contact icons.
@@ -508,7 +499,7 @@ Results: All Join the Club page testing passed.
     - The home page also has three sections to easily access other relevant pages. News/Next Game/League Table.
     - All pages have been designed to work on desktop, tablets and smartphones.
 
-#### As a first time user, I want to understand the purpose of the website and what is on offer to me as a user
+**As a first time user, I want to understand the purpose of the website and what is on offer to me as a user**
 
     - Upon entering the site their is a hero image of the stadium of light so the user knows its a Sunderland AFC fan page.
     - The hero image also has text over it saying "Welcome to the Black Cats Bulletin - The #1 Source for Sunderland AFC News & Updates" so they know what information the site provides.
@@ -518,15 +509,15 @@ Results: All Join the Club page testing passed.
     	- The next game section has a live updating widget of the next fixture and a see more button the takes them to fixtures.html
     	- The league table also has a live updating widget that also takes them to fixtures.html (this scrolls down to the league table section on the page)
 
-#### As a first time user, I want to see contact details to reach the website owner
+**As a first time user, I want to see contact details to reach the website owner**
 
     - The email and phone icons in the footer allow the user to contact the website owner if needed.
 
-#### As a first time user, I want to have access to links to visit extenal pages such as Black Cats Buletin social media pages and the official clubs website
+**As a first time user, I want to have access to links to visit extenal pages such as Black Cats Buletin social media pages and the official clubs website**
 
     - The footer contains icons for facebook twitter and instagram that takes the user to the external social media pages.
 
-#### As a first time user, I want to be able to sign up to join the fan club. Or opt in for emails alerts to new developments that are published on the website
+**As a first time user, I want to be able to sign up to join the fan club. Or opt in for emails alerts to new developments that are published on the website**
 
     - The hero image section also has a join the club button that will take the user to the join the club page if they wish to do so.
     - The navigation bar also has a link to the join page.
@@ -536,22 +527,22 @@ Results: All Join the Club page testing passed.
 
 ### Frequent User Goals
 
-#### As a frequent user, I want to find out which teams the club will be playing in the upcomming games and view results from games played
+**As a frequent user, I want to find out which teams the club will be playing in the upcomming games and view results from games played**
 
     - Users can access this information quickly by viewing the next game on the home page which is on the grid section, or they can click the see more button to be shown a full breakdown of fixtures and results on the fixtures.html page.
     - Users can also view this information by clicking the fixtures and results link in the navigation bar.
 
-#### As a frequent user, I want to see any news and developments surrounding the club such as transfers, ticket sales, special events and store updates
+**As a frequent user, I want to see any news and developments surrounding the club such as transfers, ticket sales, special events and store updates**
 
     - Users can access this information quickly by viewing the news snippet on the home page and pressing the see more button to be taken to the news.html page for full news stories.
     - Users can also view this information by clicking the news link in the navigation bar.
 
-#### As a frequent user, I want to view the league table and see where what the clubs current position is
+**As a frequent user, I want to view the league table and see where what the clubs current position is**
 
     - Users can access this information quickly by viewing the small league table widget on the home page. There is also a button to view the full league table which directs the users to the fixtures.html page and scrolls down automatically to the league table part of the page.
     - Users can also view this information by clicking the fixtures and results link in the navigation bar.
 
-#### As a frequent user, I want to see contact details to reach the website owner
+**As a frequent user, I want to see contact details to reach the website owner**
 
     - The email and phone icons in the footer allow the user to contact the website owner if needed.
 
